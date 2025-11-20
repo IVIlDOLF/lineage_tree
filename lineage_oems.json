@@ -1,0 +1,1190 @@
+[
+  {
+    "devices": [
+      {
+        "model": "a21s",
+        "name": "Galaxy A21s"
+      },
+      {
+        "model": "a52q",
+        "name": "Galaxy A52 4G"
+      },
+      {
+        "model": "a52sxq",
+        "name": "Galaxy A52s 5G"
+      },
+      {
+        "model": "a71",
+        "name": "Galaxy A71"
+      },
+      {
+        "model": "a72q",
+        "name": "Galaxy A72"
+      },
+      {
+        "model": "a73xq",
+        "name": "Galaxy A73 5G"
+      },
+      {
+        "model": "beyond0lte",
+        "name": "Galaxy S10e"
+      },
+      {
+        "model": "beyond1lte",
+        "name": "Galaxy S10"
+      },
+      {
+        "model": "beyond2lte",
+        "name": "Galaxy S10+"
+      },
+      {
+        "model": "beyondx",
+        "name": "Galaxy S10 5G"
+      },
+      {
+        "model": "d1",
+        "name": "Galaxy Note10"
+      },
+      {
+        "model": "d1x",
+        "name": "Galaxy Note10 5G"
+      },
+      {
+        "model": "d2s",
+        "name": "Galaxy Note10+"
+      },
+      {
+        "model": "d2x",
+        "name": "Galaxy Note10+ 5G"
+      },
+      {
+        "model": "f62",
+        "name": "Galaxy F62/M62"
+      },
+      {
+        "model": "gta4l",
+        "name": "Galaxy Tab A7 10.4 2020 (LTE)"
+      },
+      {
+        "model": "gta4lwifi",
+        "name": "Galaxy Tab A7 10.4 2020 (Wi-Fi)"
+      },
+      {
+        "model": "gta4xl",
+        "name": "Galaxy Tab S6 Lite (LTE)"
+      },
+      {
+        "model": "gta4xlwifi",
+        "name": "Galaxy Tab S6 Lite (Wi-Fi)"
+      },
+      {
+        "model": "gtowifi",
+        "name": "Galaxy Tab A 8.0 2019 (Wi-Fi)"
+      },
+      {
+        "model": "gts4lv",
+        "name": "Galaxy Tab S5e (LTE)"
+      },
+      {
+        "model": "gts4lvwifi",
+        "name": "Galaxy Tab S5e (Wi-Fi)"
+      },
+      {
+        "model": "gts7l",
+        "name": "Galaxy Tab S7 (LTE)"
+      },
+      {
+        "model": "gts7lwifi",
+        "name": "Galaxy Tab S7 (Wi-Fi)"
+      },
+      {
+        "model": "m52xq",
+        "name": "Galaxy M52 5G"
+      },
+      {
+        "model": "r8q",
+        "name": "Galaxy S20 FE"
+      },
+      {
+        "model": "x1s",
+        "name": "Galaxy S20 (4G/5G)"
+      },
+      {
+        "model": "y2s",
+        "name": "Galaxy S20+ (4G/5G)"
+      },
+      {
+        "model": "z3s",
+        "name": "Galaxy S20 Ultra (5G)"
+      }
+    ],
+    "name": "Samsung"
+  },
+  {
+    "devices": [
+      {
+        "model": "akari",
+        "name": "Xperia XZ2"
+      },
+      {
+        "model": "akatsuki",
+        "name": "Xperia XZ3"
+      },
+      {
+        "model": "aurora",
+        "name": "Xperia XZ2 Premium"
+      },
+      {
+        "model": "discovery",
+        "name": "Xperia XA2 Ultra"
+      },
+      {
+        "model": "kirin",
+        "name": "Xperia 10"
+      },
+      {
+        "model": "mermaid",
+        "name": "Xperia 10 Plus"
+      },
+      {
+        "model": "pdx203",
+        "name": "Xperia 1 II"
+      },
+      {
+        "model": "pdx206",
+        "name": "Xperia 5 II"
+      },
+      {
+        "model": "pdx214",
+        "name": "Xperia 5 III"
+      },
+      {
+        "model": "pdx215",
+        "name": "Xperia 1 III"
+      },
+      {
+        "model": "pdx225",
+        "name": "Xperia 10 IV"
+      },
+      {
+        "model": "pdx234",
+        "name": "Xperia 1 V"
+      },
+      {
+        "model": "pdx235",
+        "name": "Xperia 10 V"
+      },
+      {
+        "model": "pdx237",
+        "name": "Xperia 5 V"
+      },
+      {
+        "model": "pioneer",
+        "name": "Xperia XA2"
+      },
+      {
+        "model": "voyager",
+        "name": "Xperia XA2 Plus"
+      },
+      {
+        "model": "xz2c",
+        "name": "Xperia XZ2 Compact"
+      }
+    ],
+    "name": "Sony"
+  },
+  {
+    "devices": [
+      {
+        "model": "akershus",
+        "name": "Axon 9 Pro"
+      }
+    ],
+    "name": "ZTE"
+  },
+  {
+    "devices": [
+      {
+        "model": "akita",
+        "name": "Pixel 8a"
+      },
+      {
+        "model": "barbet",
+        "name": "Pixel 5a"
+      },
+      {
+        "model": "bluejay",
+        "name": "Pixel 6a"
+      },
+      {
+        "model": "blueline",
+        "name": "Pixel 3"
+      },
+      {
+        "model": "bonito",
+        "name": "Pixel 3a XL"
+      },
+      {
+        "model": "bramble",
+        "name": "Pixel 4a 5G"
+      },
+      {
+        "model": "caiman",
+        "name": "Pixel 9 Pro"
+      },
+      {
+        "model": "cheetah",
+        "name": "Pixel 7 Pro"
+      },
+      {
+        "model": "comet",
+        "name": "Pixel 9 Pro Fold"
+      },
+      {
+        "model": "coral",
+        "name": "Pixel 4 XL"
+      },
+      {
+        "model": "crosshatch",
+        "name": "Pixel 3 XL"
+      },
+      {
+        "model": "deadpool",
+        "name": "ADT-3"
+      },
+      {
+        "model": "felix",
+        "name": "Pixel Fold"
+      },
+      {
+        "model": "flame",
+        "name": "Pixel 4"
+      },
+      {
+        "model": "husky",
+        "name": "Pixel 8 Pro"
+      },
+      {
+        "model": "komodo",
+        "name": "Pixel 9 Pro XL"
+      },
+      {
+        "model": "lynx",
+        "name": "Pixel 7a"
+      },
+      {
+        "model": "marlin",
+        "name": "Pixel XL"
+      },
+      {
+        "model": "oriole",
+        "name": "Pixel 6"
+      },
+      {
+        "model": "panther",
+        "name": "Pixel 7"
+      },
+      {
+        "model": "raven",
+        "name": "Pixel 6 Pro"
+      },
+      {
+        "model": "redfin",
+        "name": "Pixel 5"
+      },
+      {
+        "model": "sabrina",
+        "name": "Chromecast with Google TV (4K)"
+      },
+      {
+        "model": "sailfish",
+        "name": "Pixel"
+      },
+      {
+        "model": "sargo",
+        "name": "Pixel 3a"
+      },
+      {
+        "model": "shiba",
+        "name": "Pixel 8"
+      },
+      {
+        "model": "sunfish",
+        "name": "Pixel 4a"
+      },
+      {
+        "model": "taimen",
+        "name": "Pixel 2 XL"
+      },
+      {
+        "model": "tangorpro",
+        "name": "Pixel Tablet"
+      },
+      {
+        "model": "tegu",
+        "name": "Pixel 9a"
+      },
+      {
+        "model": "tokay",
+        "name": "Pixel 9"
+      },
+      {
+        "model": "walleye",
+        "name": "Pixel 2"
+      }
+    ],
+    "name": "Google"
+  },
+  {
+    "devices": [
+      {
+        "model": "alioth",
+        "name": "POCO F3 / Redmi K40 / Mi 11X"
+      },
+      {
+        "model": "apollon",
+        "name": "Mi 10T / Mi 10T Pro / Redmi K30S Ultra"
+      },
+      {
+        "model": "beryllium",
+        "name": "POCO F1"
+      },
+      {
+        "model": "chiron",
+        "name": "Mi MIX 2"
+      },
+      {
+        "model": "cmi",
+        "name": "Mi 10 Pro"
+      },
+      {
+        "model": "cupid",
+        "name": "12"
+      },
+      {
+        "model": "davinci",
+        "name": "Redmi K20 / Mi 9T"
+      },
+      {
+        "model": "dipper",
+        "name": "Mi 8"
+      },
+      {
+        "model": "diting",
+        "name": "12T Pro / Redmi K50 Ultra"
+      },
+      {
+        "model": "earth",
+        "name": "Redmi 12C / Redmi 12C NFC / POCO C55"
+      },
+      {
+        "model": "equuleus",
+        "name": "Mi 8 Pro"
+      },
+      {
+        "model": "fuxi",
+        "name": "13"
+      },
+      {
+        "model": "gauguin",
+        "name": "Mi 10T Lite 5G / Mi 10i 5G / Redmi Note 9 Pro 5G"
+      },
+      {
+        "model": "gemini",
+        "name": "Mi 5"
+      },
+      {
+        "model": "ginkgo",
+        "name": "Redmi Note 8 / 8T"
+      },
+      {
+        "model": "grus",
+        "name": "Mi 9 SE"
+      },
+      {
+        "model": "haydn",
+        "name": "Mi 11i / Redmi K40 Pro / Redmi K40 Pro+ / Mi 11X Pro"
+      },
+      {
+        "model": "laurel_sprout",
+        "name": "Mi A3"
+      },
+      {
+        "model": "lisa",
+        "name": "11 Lite 5G NE / 11 Lite NE 5G / Mi 11 LE"
+      },
+      {
+        "model": "lmi",
+        "name": "POCO F2 Pro / Redmi K30 Pro"
+      },
+      {
+        "model": "marble",
+        "name": "POCO F5 / Redmi Note 12 Turbo"
+      },
+      {
+        "model": "mayfly",
+        "name": "12S"
+      },
+      {
+        "model": "Mi439",
+        "name": "Redmi 7A / 8 / 8A / 8A Dual"
+      },
+      {
+        "model": "Mi8917",
+        "name": "Redmi 4A / 5A / [Note 5A / Y1 - Lite]"
+      },
+      {
+        "model": "Mi8937",
+        "name": "Redmi 3S / 3X / 4(X) / [Note 5A / Y1 - Prime]"
+      },
+      {
+        "model": "miatoll",
+        "name": "POCO M2 Pro / Redmi Note 9S / Redmi Note 9 Pro / Redmi Note 9 Pro Max / Redmi Note 10 Lite"
+      },
+      {
+        "model": "mondrian",
+        "name": "POCO F5 Pro / Redmi K60"
+      },
+      {
+        "model": "munch",
+        "name": "POCO F4 / Redmi K40S"
+      },
+      {
+        "model": "natrium",
+        "name": "Mi 5s Plus"
+      },
+      {
+        "model": "nuwa",
+        "name": "13 Pro"
+      },
+      {
+        "model": "onclite",
+        "name": "Redmi 7 / Y3"
+      },
+      {
+        "model": "perseus",
+        "name": "Mi MIX 3"
+      },
+      {
+        "model": "polaris",
+        "name": "Mi MIX 2S"
+      },
+      {
+        "model": "pyxis",
+        "name": "Mi CC 9 / Mi 9 Lite"
+      },
+      {
+        "model": "renoir",
+        "name": "Mi 11 Lite 5G"
+      },
+      {
+        "model": "rosemary",
+        "name": "Redmi Note 10S / Redmi Note 10S NFC / Redmi Note 10S Latin America / POCO M5s"
+      },
+      {
+        "model": "sagit",
+        "name": "Mi 6"
+      },
+      {
+        "model": "shark",
+        "name": "Black Shark"
+      },
+      {
+        "model": "socrates",
+        "name": "Redmi K60 Pro"
+      },
+      {
+        "model": "surya",
+        "name": "POCO X3 NFC"
+      },
+      {
+        "model": "sweet",
+        "name": "Redmi Note 10 Pro / Redmi Note 10 Pro Max"
+      },
+      {
+        "model": "thor",
+        "name": "12S Ultra"
+      },
+      {
+        "model": "thyme",
+        "name": "Mi 10S"
+      },
+      {
+        "model": "tucana",
+        "name": "Mi Note 10 / Note 10 Pro / CC9 Pro"
+      },
+      {
+        "model": "umi",
+        "name": "Mi 10"
+      },
+      {
+        "model": "unicorn",
+        "name": "12S Pro"
+      },
+      {
+        "model": "ursa",
+        "name": "Mi 8 Explorer Edition"
+      },
+      {
+        "model": "vayu",
+        "name": "POCO X3 Pro"
+      },
+      {
+        "model": "vela",
+        "name": "Mi CC9 Meitu Edition"
+      },
+      {
+        "model": "vermeer",
+        "name": "POCO F6 Pro / Redmi K70"
+      },
+      {
+        "model": "violet",
+        "name": "Redmi Note 7 Pro"
+      },
+      {
+        "model": "zeus",
+        "name": "12 Pro"
+      },
+      {
+        "model": "zizhan",
+        "name": "MIX Fold 2"
+      }
+    ],
+    "name": "Xiaomi"
+  },
+  {
+    "devices": [
+      {
+        "model": "alphaplus",
+        "name": "G8 ThinQ"
+      },
+      {
+        "model": "betalm",
+        "name": "G8s ThinQ"
+      },
+      {
+        "model": "caymanslm",
+        "name": "Velvet"
+      },
+      {
+        "model": "flashlmdd",
+        "name": "V50 ThinQ"
+      },
+      {
+        "model": "g710n",
+        "name": "G7 ThinQ (G710N)"
+      },
+      {
+        "model": "g710ulm",
+        "name": "G7 ThinQ (G710ULM/VMX)"
+      },
+      {
+        "model": "joan",
+        "name": "V30 (Unlocked / T-Mobile / Other)"
+      },
+      {
+        "model": "judyln",
+        "name": "G7 ThinQ (G710AWM/EM/EMW) / G7+ ThinQ"
+      },
+      {
+        "model": "judyp",
+        "name": "V35 ThinQ"
+      },
+      {
+        "model": "judypn",
+        "name": "V40 ThinQ"
+      },
+      {
+        "model": "l01k",
+        "name": "V30 (Japan)"
+      },
+      {
+        "model": "mh2lm",
+        "name": "G8X ThinQ (G850EM/EMW/QM/UM) / V50S ThinQ"
+      },
+      {
+        "model": "style3lm",
+        "name": "Style3"
+      }
+    ],
+    "name": "LG"
+  },
+  {
+    "devices": [
+      {
+        "model": "aston",
+        "name": "12R / ACE 3"
+      },
+      {
+        "model": "avalon",
+        "name": "Nord 4"
+      },
+      {
+        "model": "benz",
+        "name": "Nord CE4"
+      },
+      {
+        "model": "billie",
+        "name": "Nord N10 5G"
+      },
+      {
+        "model": "caihong",
+        "name": "Pad Pro / Pad 2"
+      },
+      {
+        "model": "cheeseburger",
+        "name": "5"
+      },
+      {
+        "model": "dodge",
+        "name": "13"
+      },
+      {
+        "model": "dre",
+        "name": "Nord N200"
+      },
+      {
+        "model": "dumpling",
+        "name": "5T"
+      },
+      {
+        "model": "enchilada",
+        "name": "6"
+      },
+      {
+        "model": "erhai",
+        "name": "Pad 2 Pro / Pad 3"
+      },
+      {
+        "model": "fajita",
+        "name": "6T"
+      },
+      {
+        "model": "guacamole",
+        "name": "7 Pro"
+      },
+      {
+        "model": "guacamoleb",
+        "name": "7"
+      },
+      {
+        "model": "gunnar",
+        "name": "Nord N20 5G"
+      },
+      {
+        "model": "hotdog",
+        "name": "7T Pro"
+      },
+      {
+        "model": "hotdogb",
+        "name": "7T"
+      },
+      {
+        "model": "instantnoodle",
+        "name": "8"
+      },
+      {
+        "model": "instantnoodlep",
+        "name": "8 Pro"
+      },
+      {
+        "model": "kebab",
+        "name": "8T"
+      },
+      {
+        "model": "larry",
+        "name": "Nord CE 3 Lite 5G / Nord N30 5G"
+      },
+      {
+        "model": "lemonade",
+        "name": "9"
+      },
+      {
+        "model": "lemonadep",
+        "name": "9 Pro"
+      },
+      {
+        "model": "lemonades",
+        "name": "9R"
+      },
+      {
+        "model": "martini",
+        "name": "9RT"
+      },
+      {
+        "model": "oscaro",
+        "name": "Nord CE 2 Lite 5G"
+      },
+      {
+        "model": "salami",
+        "name": "11 5G"
+      },
+      {
+        "model": "waffle",
+        "name": "12"
+      }
+    ],
+    "name": "OnePlus"
+  },
+  {
+    "devices": [
+      {
+        "model": "aura",
+        "name": "Phone 2"
+      },
+      {
+        "model": "cheryl",
+        "name": "Phone"
+      }
+    ],
+    "name": "Razer"
+  },
+  {
+    "devices": [
+      {
+        "model": "axolotl",
+        "name": "SHIFT6mq"
+      }
+    ],
+    "name": "SHIFT"
+  },
+  {
+    "devices": [
+      {
+        "model": "B2N",
+        "name": "7 plus"
+      },
+      {
+        "model": "NB1",
+        "name": "8"
+      },
+      {
+        "model": "PL2",
+        "name": "6.1 (2018)"
+      }
+    ],
+    "name": "Nokia"
+  },
+  {
+    "devices": [
+      {
+        "model": "bangkk",
+        "name": "moto g84 5G"
+      },
+      {
+        "model": "bathena",
+        "name": "defy 2021"
+      },
+      {
+        "model": "beckham",
+        "name": "moto z3 play"
+      },
+      {
+        "model": "berlin",
+        "name": "edge 20"
+      },
+      {
+        "model": "berlna",
+        "name": "edge 2021"
+      },
+      {
+        "model": "borneo",
+        "name": "moto g power 2021"
+      },
+      {
+        "model": "bronco",
+        "name": "ThinkPhone by motorola"
+      },
+      {
+        "model": "capri",
+        "name": "moto g10 / moto g10 power / Lenovo K13 Note"
+      },
+      {
+        "model": "caprip",
+        "name": "moto g30 / Lenovo K13 Pro"
+      },
+      {
+        "model": "cebu",
+        "name": "moto g9 power / Lenovo K12 Pro"
+      },
+      {
+        "model": "channel",
+        "name": "moto g7 play"
+      },
+      {
+        "model": "denver",
+        "name": "moto g stylus 5G"
+      },
+      {
+        "model": "devon",
+        "name": "moto g32"
+      },
+      {
+        "model": "dubai",
+        "name": "edge 30"
+      },
+      {
+        "model": "eqs",
+        "name": "edge 30 ultra"
+      },
+      {
+        "model": "evert",
+        "name": "moto g6 plus"
+      },
+      {
+        "model": "fogo",
+        "name": "moto g 5G - 2024"
+      },
+      {
+        "model": "fogos",
+        "name": "moto g34 5G / moto g45 5G"
+      },
+      {
+        "model": "guam",
+        "name": "moto e7 plus / Lenovo K12"
+      },
+      {
+        "model": "guamp",
+        "name": "moto g9 / g9 play / Lenovo K12 Note"
+      },
+      {
+        "model": "hawao",
+        "name": "moto g42"
+      },
+      {
+        "model": "kane",
+        "name": "one vision / p50"
+      },
+      {
+        "model": "kiev",
+        "name": "moto g 5G"
+      },
+      {
+        "model": "lake",
+        "name": "moto g7 plus"
+      },
+      {
+        "model": "messi",
+        "name": "moto z3"
+      },
+      {
+        "model": "miami",
+        "name": "edge 30 neo"
+      },
+      {
+        "model": "milanf",
+        "name": "moto g stylus 5G (2022)"
+      },
+      {
+        "model": "nairo",
+        "name": "moto g 5G plus"
+      },
+      {
+        "model": "nash",
+        "name": "moto z2 force / moto z (2018)"
+      },
+      {
+        "model": "nio",
+        "name": "edge s / moto g100"
+      },
+      {
+        "model": "ocean",
+        "name": "moto g7 power"
+      },
+      {
+        "model": "payton",
+        "name": "moto x4"
+      },
+      {
+        "model": "pstar",
+        "name": "edge 20 pro"
+      },
+      {
+        "model": "racer",
+        "name": "edge"
+      },
+      {
+        "model": "rhode",
+        "name": "moto g52"
+      },
+      {
+        "model": "rhodep",
+        "name": "moto g82 5G"
+      },
+      {
+        "model": "river",
+        "name": "moto g7"
+      },
+      {
+        "model": "rtwo",
+        "name": "edge 40 pro / moto X40 / edge+ (2023)"
+      },
+      {
+        "model": "troika",
+        "name": "one action"
+      },
+      {
+        "model": "tundra",
+        "name": "edge 30 fusion"
+      },
+      {
+        "model": "xpeng",
+        "name": "moto g200 5G / Edge S30"
+      }
+    ],
+    "name": "Motorola"
+  },
+  {
+    "devices": [
+      {
+        "model": "casuarina",
+        "name": "Joy 3 / Joy 3+"
+      }
+    ],
+    "name": "Vsmart"
+  },
+  {
+    "devices": [
+      {
+        "model": "dopinder",
+        "name": "onn. TV Box 4K (2021)"
+      }
+    ],
+    "name": "Walmart"
+  },
+  {
+    "devices": [
+      {
+        "model": "FP3",
+        "name": "Fairphone 3 / 3+"
+      },
+      {
+        "model": "FP4",
+        "name": "Fairphone 4"
+      },
+      {
+        "model": "FP5",
+        "name": "Fairphone 5"
+      }
+    ],
+    "name": "Fairphone"
+  },
+  {
+    "devices": [
+      {
+        "model": "foster",
+        "name": "Shield TV (2015 / 2015 Pro / 2017 / 2019 Pro) / Jetson TX1 [Android TV]"
+      },
+      {
+        "model": "foster_tab",
+        "name": "Shield TV (2015 / 2015 Pro / 2017 / 2019 Pro) / Jetson TX1 [Tablet]"
+      },
+      {
+        "model": "porg",
+        "name": "Jetson (Nano / Nano 2GB) [Android TV]"
+      },
+      {
+        "model": "porg_tab",
+        "name": "Jetson (Nano / Nano 2GB) [Tablet]"
+      },
+      {
+        "model": "quill",
+        "name": "Jetson (TX2 / TX2 NX) [Android TV]"
+      },
+      {
+        "model": "quill_tab",
+        "name": "Jetson (TX2 / TX2 NX) [Tablet]"
+      },
+      {
+        "model": "sif",
+        "name": "NVIDIA Shield TV (2019) [Android TV]"
+      }
+    ],
+    "name": "Nvidia"
+  },
+  {
+    "devices": [
+      {
+        "model": "heart",
+        "name": "Z5 Pro GT"
+      },
+      {
+        "model": "zippo",
+        "name": "Z6 Pro"
+      }
+    ],
+    "name": "Lenovo"
+  },
+  {
+    "devices": [
+      {
+        "model": "ingot",
+        "name": "Saga"
+      }
+    ],
+    "name": "Solana"
+  },
+  {
+    "devices": [
+      {
+        "model": "luigi",
+        "name": "10 Pro 5G"
+      },
+      {
+        "model": "oscar",
+        "name": "9 Pro 5G / 9 5G / Q5"
+      }
+    ],
+    "name": "Realme"
+  },
+  {
+    "devices": [
+      {
+        "model": "m5",
+        "name": "M5 (Android TV)"
+      },
+      {
+        "model": "m5_tab",
+        "name": "M5 (Tablet)"
+      }
+    ],
+    "name": "Banana Pi"
+  },
+  {
+    "devices": [
+      {
+        "model": "mata",
+        "name": "PH-1"
+      }
+    ],
+    "name": "Essential"
+  },
+  {
+    "devices": [
+      {
+        "model": "nx",
+        "name": "Switch v1 / v2 / Lite / OLED [Android TV]"
+      },
+      {
+        "model": "nx_tab",
+        "name": "Switch v1 / v2 / Lite / OLED [Tablet]"
+      }
+    ],
+    "name": "Nintendo"
+  },
+  {
+    "devices": [
+      {
+        "model": "nx563j",
+        "name": "Z17"
+      },
+      {
+        "model": "nx606j",
+        "name": "Z18"
+      },
+      {
+        "model": "nx611j",
+        "name": "Z18 Mini"
+      },
+      {
+        "model": "nx616j",
+        "name": "X"
+      },
+      {
+        "model": "nx619j",
+        "name": "Red Magic Mars"
+      },
+      {
+        "model": "nx659j",
+        "name": "Red Magic 5G / 5S"
+      },
+      {
+        "model": "TP1803",
+        "name": "Mini 5G"
+      }
+    ],
+    "name": "Nubia"
+  },
+  {
+    "devices": [
+      {
+        "model": "odroidc4",
+        "name": "ODROID-C4 (Android TV)"
+      },
+      {
+        "model": "odroidc4_tab",
+        "name": "ODROID-C4 (Tablet)"
+      }
+    ],
+    "name": "HardKernel"
+  },
+  {
+    "devices": [
+      {
+        "model": "Pong",
+        "name": "Phone (2)"
+      },
+      {
+        "model": "Spacewar",
+        "name": "Phone (1)"
+      }
+    ],
+    "name": "Nothing"
+  },
+  {
+    "devices": [
+      {
+        "model": "pro1",
+        "name": "Pro1"
+      },
+      {
+        "model": "pro1x",
+        "name": "Pro1 X"
+      }
+    ],
+    "name": "F(x)tec"
+  },
+  {
+    "devices": [
+      {
+        "model": "radxa0",
+        "name": "Zero (Android TV)"
+      },
+      {
+        "model": "radxa02",
+        "name": "Zero 2 (Android TV)"
+      },
+      {
+        "model": "radxa0_tab",
+        "name": "Zero (Tablet)"
+      },
+      {
+        "model": "radxa02_tab",
+        "name": "Zero 2 (Tablet)"
+      }
+    ],
+    "name": "Radxa"
+  },
+  {
+    "devices": [
+      {
+        "model": "sake",
+        "name": "ZenFone 8"
+      },
+      {
+        "model": "Z01R",
+        "name": "Zenfone 5Z (ZS620KL)"
+      }
+    ],
+    "name": "ASUS"
+  },
+  {
+    "devices": [
+      {
+        "model": "wade",
+        "name": "TV Box 4K (2021)"
+      }
+    ],
+    "name": "Dynalink"
+  }
+]
