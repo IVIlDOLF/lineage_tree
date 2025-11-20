@@ -1,3 +1,4 @@
+import time
 import httpx
 import json
 import re
@@ -20,23 +21,21 @@ def create_oems_tree():
     devices_dict = {}
 
     for devices_info in devices_list:
-
         oem_name = devices_info["name"]
 
         for device_info in devices_info["devices"]:
-
             device_model = device_info["model"]
             device_name = device_info["name"]
 
             # print(f"oem: {oem_name}, model: {device_model}, name: {device_name}")
-            
+
             devices_dict.setdefault(oem_name, []).append(
                 {
                     "device_name": device_name,
                     "device_model": device_model,
                 }
             )
-            
+
     for devices in devices_dict.values():
         devices.sort(key=device_name_numeric_key)
 
@@ -79,16 +78,35 @@ def get_device_info(device_name: str):
 
     # print("device_info_dict:", device_info_dict)
 
+    return device_info_dict
+
 
 # get_device_info()
 
 
 def create_full_lineage_tree():
-    with open("lineage_device_info.json", "r", encoding="utf-8") as f:
-        data = json.load(f)
-        print("data json:", data)
-    
+    with open("lineage_oems_tree.json", "r", encoding="utf-8") as f:
+        oems_data = json.load(f)
+
+    # print("oems_data json:", oems_data)
+
+    for oem, device_list in oems_data.items():
+        for device_info_dict in device_list:
+            device_name = device_info_dict["device_name"]
+            device_model = device_info_dict["device_model"]
+
+            print("device_name:", device_name)
+            print("device_model:", device_model)
+
+            device_build_info_dict = get_device_info(device_model)
+            device_info_dict.update(device_build_info_dict)
+            time.sleep(2)
+         
+
+    # print("oems_data modified:", oems_data)
+
+    with open("lineage_oems_tree_full.json", "w", encoding="utf-8") as f:
+        f.write(json.dumps(oems_data, indent=2, sort_keys=False, ensure_ascii=False))
 
 
-
-# create_full_lineage_tree()
+create_full_lineage_tree()
