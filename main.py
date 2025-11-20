@@ -17,60 +17,67 @@ def create_oems_tree():
         resp.raise_for_status()
         devices_list = resp.json()
 
-        devices_dict = {}
+    devices_dict = {}
 
-        for devices_info in devices_list:
-            oem_name = devices_info["name"]
-            for device_info in devices_info["devices"]:
-                device_model = device_info["model"]
-                device_name = device_info["name"]
-                print(f"oem: {oem_name}, model: {device_model}, name: {device_name}")
+    for devices_info in devices_list:
 
-                devices_dict.setdefault(oem_name, []).append(
-                    {
-                        "device_name": device_name,
-                        "device_model": device_model,
-                    }
-                )
+        oem_name = devices_info["name"]
 
-        for devices in devices_dict.values():
-            devices.sort(key=device_name_numeric_key)
+        for device_info in devices_info["devices"]:
 
-        devices_sorted = dict(sorted(devices_dict.items()))
+            device_model = device_info["model"]
+            device_name = device_info["name"]
 
-        with open("lineage_oems_tree.json", "w", encoding="utf-8") as f:
-            f.write(json.dumps(devices_sorted, indent=2, sort_keys=False, ensure_ascii=False))
+            # print(f"oem: {oem_name}, model: {device_model}, name: {device_name}")
+            
+            devices_dict.setdefault(oem_name, []).append(
+                {
+                    "device_name": device_name,
+                    "device_model": device_model,
+                }
+            )
+            
+    for devices in devices_dict.values():
+        devices.sort(key=device_name_numeric_key)
+
+    devices_sorted = dict(sorted(devices_dict.items()))
+
+    with open("lineage_oems_tree.json", "w", encoding="utf-8") as f:
+        f.write(json.dumps(devices_sorted, indent=2, sort_keys=False, ensure_ascii=False))
 
 
 # create_oems_tree()
 
 
-def get_device_info():
+def get_device_info(device_name: str):
     with httpx.Client(timeout=10.0) as client:
-        device_name = "zippo"
+        # device_name = "zippo"
         resp = client.get(f"https://download.lineageos.org/api/v2/devices/{device_name}/builds")
         resp.raise_for_status()
         device_info_arr = resp.json()
-        device_info_formatted = json.dumps(
-            device_info_arr, indent=2, sort_keys=True, ensure_ascii=False
-        )
-        # print("device_info:", device_info_arr)
 
-        with open("lineage_device_info.json", "w", encoding="utf-8") as f:
-            f.write(device_info_formatted)
+    device_info_formatted = json.dumps(
+        device_info_arr, indent=2, sort_keys=True, ensure_ascii=False
+    )
 
-        # print("device_info_arr[0]:", device_info_arr[0])
+    # print("device_info:", device_info_arr)
 
-        device_info = device_info_arr[0]
-        device_version_lineageos = device_info["version"]
+    with open("lineage_device_info.json", "w", encoding="utf-8") as f:
+        f.write(device_info_formatted)
 
-        device_info_dict = {
-            "version_lineageos": device_version_lineageos,
-        }
+    # print("device_info_arr[0]:", device_info_arr[0])
 
-        device_info_dict.update(device_info["files"][0])
+    device_info = device_info_arr[0]
 
-        print("device_info_dict:", device_info_dict)
+    device_version_lineageos = device_info["version"]
+
+    device_info_dict = {
+        "version_lineageos": device_version_lineageos,
+    }
+
+    device_info_dict.update(device_info["files"][0])
+
+    # print("device_info_dict:", device_info_dict)
 
 
 # get_device_info()
@@ -80,6 +87,8 @@ def create_full_lineage_tree():
     with open("lineage_device_info.json", "r", encoding="utf-8") as f:
         data = json.load(f)
         print("data json:", data)
+    
 
 
-create_full_lineage_tree()
+
+# create_full_lineage_tree()
