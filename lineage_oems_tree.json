@@ -521,22 +521,6 @@
   ],
   "OnePlus": [
     {
-      "device_name": "11 5G",
-      "device_model": "salami"
-    },
-    {
-      "device_name": "12",
-      "device_model": "waffle"
-    },
-    {
-      "device_name": "12R / ACE 3",
-      "device_model": "aston"
-    },
-    {
-      "device_name": "13",
-      "device_model": "dodge"
-    },
-    {
       "device_name": "5",
       "device_model": "cheeseburger"
     },
@@ -595,6 +579,22 @@
     {
       "device_name": "9RT",
       "device_model": "martini"
+    },
+    {
+      "device_name": "11 5G",
+      "device_model": "salami"
+    },
+    {
+      "device_name": "12",
+      "device_model": "waffle"
+    },
+    {
+      "device_name": "12R / ACE 3",
+      "device_model": "aston"
+    },
+    {
+      "device_name": "13",
+      "device_model": "dodge"
     },
     {
       "device_name": "Nord 4",
@@ -663,12 +663,12 @@
   ],
   "Realme": [
     {
-      "device_name": "10 Pro 5G",
-      "device_model": "luigi"
-    },
-    {
       "device_name": "9 Pro 5G / 9 5G / Q5",
       "device_model": "oscar"
+    },
+    {
+      "device_name": "10 Pro 5G",
+      "device_model": "luigi"
     }
   ],
   "SHIFT": [

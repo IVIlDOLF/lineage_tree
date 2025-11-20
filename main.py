@@ -1,5 +1,14 @@
 import httpx
 import json
+import re
+
+
+def device_name_numeric_key(device: dict) -> tuple[int, str]:
+    name = device["device_name"].strip()
+    match = re.match(r"(\d+)", name)  
+    if match:
+        return int(match.group(1)), name.lower()
+    return (10**9, name.lower())
 
 
 def create_oems_tree():
@@ -7,7 +16,7 @@ def create_oems_tree():
         resp = client.get("https://download.lineageos.org/api/v2/oems")
         resp.raise_for_status()
         devices_list = resp.json()
- 
+
         devices_dict = {}
 
         for devices_info in devices_list:
@@ -24,9 +33,8 @@ def create_oems_tree():
                     }
                 )
 
-
         for devices in devices_dict.values():
-            devices.sort(key=lambda d: d["device_name"].lower())
+            devices.sort(key=device_name_numeric_key)
 
         devices_sorted = dict(sorted(devices_dict.items()))
 
