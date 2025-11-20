@@ -5,7 +5,7 @@ import re
 
 def device_name_numeric_key(device: dict) -> tuple[int, str]:
     name = device["device_name"].strip()
-    match = re.match(r"(\d+)", name)  
+    match = re.match(r"(\d+)", name)
     if match:
         return int(match.group(1)), name.lower()
     return (10**9, name.lower())
@@ -42,5 +42,44 @@ def create_oems_tree():
             f.write(json.dumps(devices_sorted, indent=2, sort_keys=False, ensure_ascii=False))
 
 
-create_oems_tree()
+# create_oems_tree()
 
+
+def get_device_info():
+    with httpx.Client(timeout=10.0) as client:
+        device_name = "zippo"
+        resp = client.get(f"https://download.lineageos.org/api/v2/devices/{device_name}/builds")
+        resp.raise_for_status()
+        device_info_arr = resp.json()
+        device_info_formatted = json.dumps(
+            device_info_arr, indent=2, sort_keys=True, ensure_ascii=False
+        )
+        # print("device_info:", device_info_arr)
+
+        with open("lineage_device_info.json", "w", encoding="utf-8") as f:
+            f.write(device_info_formatted)
+
+        # print("device_info_arr[0]:", device_info_arr[0])
+
+        device_info = device_info_arr[0]
+        device_version_lineageos = device_info["version"]
+
+        device_info_dict = {
+            "version_lineageos": device_version_lineageos,
+        }
+
+        device_info_dict.update(device_info["files"][0])
+
+        print("device_info_dict:", device_info_dict)
+
+
+# get_device_info()
+
+
+def create_full_lineage_tree():
+    with open("lineage_device_info.json", "r", encoding="utf-8") as f:
+        data = json.load(f)
+        print("data json:", data)
+
+
+create_full_lineage_tree()
