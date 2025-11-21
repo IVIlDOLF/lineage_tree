@@ -48,9 +48,9 @@ def create_oems_tree():
 # create_oems_tree()
 
 
-def get_device_info(device_name: str):
+def get_device_info(device_name: str, version_lineage: str):
     with httpx.Client(timeout=10.0) as client:
-        # device_name = "zippo"
+        # device_name = "dodge"
         resp = client.get(f"https://download.lineageos.org/api/v2/devices/{device_name}/builds")
         resp.raise_for_status()
         device_info_raw = resp.json()
@@ -72,7 +72,7 @@ def get_device_info(device_name: str):
         device_build_version = device_build_dict["version"]
         # print(f"device_build_dict version: {device_build_version}")
 
-        if device_build_version == "22.2":
+        if device_build_version == version_lineage:
             device_build_arr = device_build_dict["files"]
 
             for curr_device_build in device_build_arr:
@@ -84,12 +84,14 @@ def get_device_info(device_name: str):
                     device_version_lineageos = device_build_dict["version"]
                     device_info_dict["version_lineageos"] = device_version_lineageos
 
-                    device_info_dict["support_lineage_22.2"] = True
+                    device_info_dict[f"support_lineage_{version_lineage}"] = True
 
                     device_info_dict.update(curr_device_build)
 
+                    return device_info_dict
+
     if not device_info_dict:
-        device_info_dict["support_lineage_22.2"] = False
+        device_info_dict[f"support_lineage_{version_lineage}"] = False
         print(f"exception device_info_dict with device_name: {device_name}")
         # raise Exception("device_info_dict empty")
 
@@ -101,7 +103,7 @@ def get_device_info(device_name: str):
 # get_device_info("pdx214")
 
 
-def create_full_lineage_tree():
+def create_full_lineage_tree(version_lineage: str):
     with open("lineage_oems_tree.json", "r", encoding="utf-8") as f:
         oems_data = json.load(f)
 
@@ -115,15 +117,15 @@ def create_full_lineage_tree():
             print("device_name:", device_name)
             print("device_model:", device_model)
 
-            device_build_info_dict = get_device_info(device_model)
+            device_build_info_dict = get_device_info(device_model, version_lineage)
 
             device_info_dict.update(device_build_info_dict)
             time.sleep(2)
 
     # print("oems_data modified:", oems_data)
 
-    with open("lineage_oems_tree_full.json", "w", encoding="utf-8") as f:
+    with open(f"lineage_oems_tree_full_{version_lineage}.json", "w", encoding="utf-8") as f:
         f.write(json.dumps(oems_data, indent=2, sort_keys=False, ensure_ascii=False))
 
 
-# create_full_lineage_tree()
+create_full_lineage_tree("22.2")
