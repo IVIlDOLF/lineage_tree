@@ -53,35 +53,52 @@ def get_device_info(device_name: str):
         # device_name = "zippo"
         resp = client.get(f"https://download.lineageos.org/api/v2/devices/{device_name}/builds")
         resp.raise_for_status()
-        device_info_arr = resp.json()
+        device_info_raw = resp.json()
 
-    device_info_formatted = json.dumps(
-        device_info_arr, indent=2, sort_keys=True, ensure_ascii=False
-    )
+    # device_info_formatted = json.dumps(
+    #     device_info_raw, indent=2, sort_keys=True, ensure_ascii=False
+    # )
 
-    # print("device_info:", device_info_arr)
+    # print("device_info_raw:", device_info_raw)
 
-    with open("lineage_device_info.json", "w", encoding="utf-8") as f:
-        f.write(device_info_formatted)
+    # with open("lineage_device_info.json", "w", encoding="utf-8") as f:
+    #     f.write(device_info_formatted)
 
-    # print("device_info_arr[0]:", device_info_arr[0])
+    # print("device_info_raw[0]:", device_info_raw[0])
 
-    device_info = device_info_arr[0]
+    device_info_dict = {}
 
-    device_version_lineageos = device_info["version"]
+    for device_build_dict in device_info_raw:
+        device_build_version = device_build_dict["version"]
+        # print(f"device_build_dict version: {device_build_version}")
 
-    device_info_dict = {
-        "version_lineageos": device_version_lineageos,
-    }
+        if device_build_version == "22.2":
+            device_build_arr = device_build_dict["files"]
 
-    device_info_dict.update(device_info["files"][0])
+            for curr_device_build in device_build_arr:
+                device_build_filename = curr_device_build["filename"]
+
+                if "lineage" in device_build_filename:
+                    # print(device_build_filename)
+
+                    device_version_lineageos = device_build_dict["version"]
+                    device_info_dict["version_lineageos"] = device_version_lineageos
+
+                    device_info_dict["support_lineage_22.2"] = True
+
+                    device_info_dict.update(curr_device_build)
+
+    if not device_info_dict:
+        device_info_dict["support_lineage_22.2"] = False
+        print(f"exception device_info_dict with device_name: {device_name}")
+        # raise Exception("device_info_dict empty")
 
     # print("device_info_dict:", device_info_dict)
 
     return device_info_dict
 
 
-# get_device_info()
+# get_device_info("pdx214")
 
 
 def create_full_lineage_tree():
@@ -99,9 +116,9 @@ def create_full_lineage_tree():
             print("device_model:", device_model)
 
             device_build_info_dict = get_device_info(device_model)
+
             device_info_dict.update(device_build_info_dict)
             time.sleep(2)
-         
 
     # print("oems_data modified:", oems_data)
 
@@ -109,4 +126,4 @@ def create_full_lineage_tree():
         f.write(json.dumps(oems_data, indent=2, sort_keys=False, ensure_ascii=False))
 
 
-create_full_lineage_tree()
+# create_full_lineage_tree()
