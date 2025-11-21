@@ -1,0 +1,2820 @@
+{
+  "ASUS": [
+    {
+      "device_name": "Zenfone 5Z (ZS620KL)",
+      "device_model": "Z01R",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "ZenFone 8",
+      "device_model": "sake",
+      "support_lineage_23.0": false
+    }
+  ],
+  "Banana Pi": [
+    {
+      "device_name": "M5 (Android TV)",
+      "device_model": "m5",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "M5 (Tablet)",
+      "device_model": "m5_tab",
+      "support_lineage_23.0": false
+    }
+  ],
+  "Dynalink": [
+    {
+      "device_name": "TV Box 4K (2021)",
+      "device_model": "wade",
+      "support_lineage_23.0": false
+    }
+  ],
+  "Essential": [
+    {
+      "device_name": "PH-1",
+      "device_model": "mata",
+      "support_lineage_23.0": false
+    }
+  ],
+  "F(x)tec": [
+    {
+      "device_name": "Pro1",
+      "device_model": "pro1",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "Pro1 X",
+      "device_model": "pro1x",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-27",
+      "datetime": 1761523200,
+      "filename": "lineage-23.0-20251027-nightly-pro1x-signed.zip",
+      "filepath": "/full/pro1x/20251027/lineage-23.0-20251027-nightly-pro1x-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "001c9e642725aa64596bcdb0cfcb08a9366156f9",
+      "sha256": "feb4027cd66f3d678a5b9ab1179431c357f2ce9ba8d79b1f5d57b50c1c59c2e4",
+      "size": 1035965391,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/pro1x/20251027/lineage-23.0-20251027-nightly-pro1x-signed.zip"
+    }
+  ],
+  "Fairphone": [
+    {
+      "device_name": "Fairphone 3 / 3+",
+      "device_model": "FP3",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "Fairphone 4",
+      "device_model": "FP4",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-29",
+      "datetime": 1761696000,
+      "filename": "lineage-23.0-20251029-nightly-FP4-signed.zip",
+      "filepath": "/full/FP4/20251029/lineage-23.0-20251029-nightly-FP4-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "045e1da5bc7f1554f94979d9887860be6d6c5ec0",
+      "sha256": "c0d8965161212d7d1f1c8b11ce296dc084495c35d325c06b0260e563f0b32090",
+      "size": 1197695305,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/FP4/20251029/lineage-23.0-20251029-nightly-FP4-signed.zip"
+    },
+    {
+      "device_name": "Fairphone 5",
+      "device_model": "FP5",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-28",
+      "datetime": 1761609600,
+      "filename": "lineage-23.0-20251028-nightly-FP5-signed.zip",
+      "filepath": "/full/FP5/20251028/lineage-23.0-20251028-nightly-FP5-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "fd65ed4ba0af4c3f8fcca5dedb799575a17b1ea3",
+      "sha256": "1d3e36e06e296c3bc97e66755a4b10cae4a05ee9cbb3a1688192989b494960d4",
+      "size": 1288059655,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/FP5/20251028/lineage-23.0-20251028-nightly-FP5-signed.zip"
+    }
+  ],
+  "Google": [
+    {
+      "device_name": "ADT-3",
+      "device_model": "deadpool",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "Chromecast with Google TV (4K)",
+      "device_model": "sabrina",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "Pixel",
+      "device_model": "sailfish",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "Pixel 2",
+      "device_model": "walleye",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "Pixel 2 XL",
+      "device_model": "taimen",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "Pixel 3",
+      "device_model": "blueline",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "Pixel 3 XL",
+      "device_model": "crosshatch",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "Pixel 3a",
+      "device_model": "sargo",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "Pixel 3a XL",
+      "device_model": "bonito",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "Pixel 4",
+      "device_model": "flame",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "Pixel 4 XL",
+      "device_model": "coral",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "Pixel 4a",
+      "device_model": "sunfish",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "Pixel 4a 5G",
+      "device_model": "bramble",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-25",
+      "datetime": 1761350400,
+      "filename": "lineage-23.0-20251025-nightly-bramble-signed.zip",
+      "filepath": "/full/bramble/20251025/lineage-23.0-20251025-nightly-bramble-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "7f5bd8ebc0d68e5115f92cb01c0fcf3486663a9e",
+      "sha256": "0eef9763c3a4fef255f3708fabe5ccbb85c38ef5c80be82a31b0f62a7910bace",
+      "size": 1234741068,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/bramble/20251025/lineage-23.0-20251025-nightly-bramble-signed.zip"
+    },
+    {
+      "device_name": "Pixel 5",
+      "device_model": "redfin",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-27",
+      "datetime": 1761523200,
+      "filename": "lineage-23.0-20251027-nightly-redfin-signed.zip",
+      "filepath": "/full/redfin/20251027/lineage-23.0-20251027-nightly-redfin-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "ee323dd6e79aad6cab6fad4bfe651623af9ba813",
+      "sha256": "36962e52727c2c71e693ccec59208f1dede12d1b21c12b7ce9ebd27be3db2240",
+      "size": 1234908647,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/redfin/20251027/lineage-23.0-20251027-nightly-redfin-signed.zip"
+    },
+    {
+      "device_name": "Pixel 5a",
+      "device_model": "barbet",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-24",
+      "datetime": 1761264000,
+      "filename": "lineage-23.0-20251024-nightly-barbet-signed.zip",
+      "filepath": "/full/barbet/20251024/lineage-23.0-20251024-nightly-barbet-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "aa25a2ab5e6715cee618936308c9803da1c480ed",
+      "sha256": "f7e426aa4941a4c48e038b536f81fb44b09356eb83d366b8250c19bf491abafb",
+      "size": 1232816593,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/barbet/20251024/lineage-23.0-20251024-nightly-barbet-signed.zip"
+    },
+    {
+      "device_name": "Pixel 6",
+      "device_model": "oriole",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-11-03",
+      "datetime": 1762128000,
+      "filename": "lineage-23.0-20251103-nightly-oriole-signed.zip",
+      "filepath": "/full/oriole/20251103/lineage-23.0-20251103-nightly-oriole-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "e8ffd31f1aae7317d2d80a9f2129d804be4f1c8e",
+      "sha256": "c0c7c4630e051a5cd76cc0212c7f538d31163f60b14543664d3db4777cffc00b",
+      "size": 1366271200,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/oriole/20251103/lineage-23.0-20251103-nightly-oriole-signed.zip"
+    },
+    {
+      "device_name": "Pixel 6 Pro",
+      "device_model": "raven",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-11-03",
+      "datetime": 1762128000,
+      "filename": "lineage-23.0-20251103-nightly-raven-signed.zip",
+      "filepath": "/full/raven/20251103/lineage-23.0-20251103-nightly-raven-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "2c7a4f507fd1156a148ec9b91657f6a2751b2b1b",
+      "sha256": "d2ca61c414e64c0b07eac54101a5926771dd06a5c63f85593d22e5c4eee7006b",
+      "size": 1367780894,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/raven/20251103/lineage-23.0-20251103-nightly-raven-signed.zip"
+    },
+    {
+      "device_name": "Pixel 6a",
+      "device_model": "bluejay",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-11-03",
+      "datetime": 1762128000,
+      "filename": "lineage-23.0-20251103-nightly-bluejay-signed.zip",
+      "filepath": "/full/bluejay/20251103/lineage-23.0-20251103-nightly-bluejay-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "237c51ef89a0ef4b19999c67cf41b3d6dbcbb6f2",
+      "sha256": "7ab9ab7cac923f64fa59f5aca474e83ce34c4f09fcd2f0cfae37772882377573",
+      "size": 1361800530,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/bluejay/20251103/lineage-23.0-20251103-nightly-bluejay-signed.zip"
+    },
+    {
+      "device_name": "Pixel 7",
+      "device_model": "panther",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-11-03",
+      "datetime": 1762128000,
+      "filename": "lineage-23.0-20251103-nightly-panther-signed.zip",
+      "filepath": "/full/panther/20251103/lineage-23.0-20251103-nightly-panther-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "505ef0317421e543946dd9f6ceadff0b7f214656",
+      "sha256": "476419221b07a7f858487808afa6bd70654404173b856e7c2ae39b87d529220e",
+      "size": 1520867235,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/panther/20251103/lineage-23.0-20251103-nightly-panther-signed.zip"
+    },
+    {
+      "device_name": "Pixel 7 Pro",
+      "device_model": "cheetah",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-11-04",
+      "datetime": 1762214400,
+      "filename": "lineage-23.0-20251104-nightly-cheetah-signed.zip",
+      "filepath": "/full/cheetah/20251104/lineage-23.0-20251104-nightly-cheetah-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "c0994a8fe6ed237062fe7e95c48a0f1a8dda117c",
+      "sha256": "e0af68a29442171d3e0cfecb64b59a56a1bf124e6f3c6364db47469b8de927a6",
+      "size": 1523031020,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/cheetah/20251104/lineage-23.0-20251104-nightly-cheetah-signed.zip"
+    },
+    {
+      "device_name": "Pixel 7a",
+      "device_model": "lynx",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-11-03",
+      "datetime": 1762128000,
+      "filename": "lineage-23.0-20251103-nightly-lynx-signed.zip",
+      "filepath": "/full/lynx/20251103/lineage-23.0-20251103-nightly-lynx-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "76baef36a43a4c7352c400d0103d6a6e1afe0156",
+      "sha256": "4d67bee6e19080d5eb4a80479d205546fd205be9aae8f207a384b880f360789e",
+      "size": 1520357942,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/lynx/20251103/lineage-23.0-20251103-nightly-lynx-signed.zip"
+    },
+    {
+      "device_name": "Pixel 8",
+      "device_model": "shiba",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-11-03",
+      "datetime": 1762128000,
+      "filename": "lineage-23.0-20251103-nightly-shiba-signed.zip",
+      "filepath": "/full/shiba/20251103/lineage-23.0-20251103-nightly-shiba-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "c140d331fcefe9b0a4ca11be812fd3fccd5cd3d7",
+      "sha256": "22a231a69ca53e250e12f9fc58bae78843814f0db2194a159da3c10eb68e1b89",
+      "size": 1429405732,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/shiba/20251103/lineage-23.0-20251103-nightly-shiba-signed.zip"
+    },
+    {
+      "device_name": "Pixel 8 Pro",
+      "device_model": "husky",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-11-03",
+      "datetime": 1762128000,
+      "filename": "lineage-23.0-20251103-nightly-husky-signed.zip",
+      "filepath": "/full/husky/20251103/lineage-23.0-20251103-nightly-husky-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "ca5041e44be9c697ca84021f1ece1d0adfc4fe62",
+      "sha256": "dc1deefea357f89e845bb2fd878fe336d0945ec396449d535fb3b3e1b92177c8",
+      "size": 1436862741,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/husky/20251103/lineage-23.0-20251103-nightly-husky-signed.zip"
+    },
+    {
+      "device_name": "Pixel 8a",
+      "device_model": "akita",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-11-03",
+      "datetime": 1762128000,
+      "filename": "lineage-23.0-20251103-nightly-akita-signed.zip",
+      "filepath": "/full/akita/20251103/lineage-23.0-20251103-nightly-akita-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "85a3086d3fddd6b59ae37b0e06431a4152fa7c4b",
+      "sha256": "ad64a93bd735fe6bfa56af8deab6b0bd97c0ba62708246c000bb20660cf8205c",
+      "size": 1419385551,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/akita/20251103/lineage-23.0-20251103-nightly-akita-signed.zip"
+    },
+    {
+      "device_name": "Pixel 9",
+      "device_model": "tokay",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-11-03",
+      "datetime": 1762128000,
+      "filename": "lineage-23.0-20251103-nightly-tokay-signed.zip",
+      "filepath": "/full/tokay/20251103/lineage-23.0-20251103-nightly-tokay-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "8bc4fbaa7d81a5c9551011a44e1985d83f64fe80",
+      "sha256": "2678b97c51f64315aef5a241ad5ca0ce351b1fbfe84941b2b13e9a37bf30e479",
+      "size": 1684235043,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/tokay/20251103/lineage-23.0-20251103-nightly-tokay-signed.zip"
+    },
+    {
+      "device_name": "Pixel 9 Pro",
+      "device_model": "caiman",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-11-04",
+      "datetime": 1762214400,
+      "filename": "lineage-23.0-20251104-nightly-caiman-signed.zip",
+      "filepath": "/full/caiman/20251104/lineage-23.0-20251104-nightly-caiman-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "78de663ab6981664f825b0c02726296a0a92d5be",
+      "sha256": "e62409121d59f8ec005348d6300bc6e3fe90e189e747c1bacdd3e9c54f5f5f74",
+      "size": 1690762007,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/caiman/20251104/lineage-23.0-20251104-nightly-caiman-signed.zip"
+    },
+    {
+      "device_name": "Pixel 9 Pro Fold",
+      "device_model": "comet",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-11-03",
+      "datetime": 1762128000,
+      "filename": "lineage-23.0-20251103-nightly-comet-signed.zip",
+      "filepath": "/full/comet/20251103/lineage-23.0-20251103-nightly-comet-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "41d5ba92b14d9b98958a5d29911afd5211c3908e",
+      "sha256": "63ca43eb0819df19d7c27ab29e295f093cab923b9245ac485c09f46fd6199888",
+      "size": 1686030598,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/comet/20251103/lineage-23.0-20251103-nightly-comet-signed.zip"
+    },
+    {
+      "device_name": "Pixel 9 Pro XL",
+      "device_model": "komodo",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-11-04",
+      "datetime": 1762214400,
+      "filename": "lineage-23.0-20251104-nightly-komodo-signed.zip",
+      "filepath": "/full/komodo/20251104/lineage-23.0-20251104-nightly-komodo-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "d9461a2d19cea4768da5f649898a483955e2378f",
+      "sha256": "7e40a18412b054b5e205285e675184a14d966111c0b36feec85509eb58de6859",
+      "size": 1694031133,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/komodo/20251104/lineage-23.0-20251104-nightly-komodo-signed.zip"
+    },
+    {
+      "device_name": "Pixel 9a",
+      "device_model": "tegu",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-11-04",
+      "datetime": 1762214400,
+      "filename": "lineage-23.0-20251104-nightly-tegu-signed.zip",
+      "filepath": "/full/tegu/20251104/lineage-23.0-20251104-nightly-tegu-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "483add1fada544f151b944a15000a355f4709bdf",
+      "sha256": "a99c6dc1e31b393f0ae48d7be459926a94b4c50c27c08eda2302529b7894291e",
+      "size": 1439086360,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/tegu/20251104/lineage-23.0-20251104-nightly-tegu-signed.zip"
+    },
+    {
+      "device_name": "Pixel Fold",
+      "device_model": "felix",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-11-03",
+      "datetime": 1762128000,
+      "filename": "lineage-23.0-20251103-nightly-felix-signed.zip",
+      "filepath": "/full/felix/20251103/lineage-23.0-20251103-nightly-felix-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "2513168d36cd5fb084dfab13fd06c64a16f6dbb3",
+      "sha256": "0ec905e05f539f4c79d821da62d26cfc99538299eee655cc1d4a3cb5f4e73130",
+      "size": 1511510478,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/felix/20251103/lineage-23.0-20251103-nightly-felix-signed.zip"
+    },
+    {
+      "device_name": "Pixel Tablet",
+      "device_model": "tangorpro",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-11-03",
+      "datetime": 1762128000,
+      "filename": "lineage-23.0-20251103-nightly-tangorpro-signed.zip",
+      "filepath": "/full/tangorpro/20251103/lineage-23.0-20251103-nightly-tangorpro-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "a80c09bea330f0c69e4d09927df0fa0fafe9a8fc",
+      "sha256": "c9d03b47ce122a7c5c18178967d26683e75c44ed4cdf9c8a1e1e8df512356f1b",
+      "size": 1405056225,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/tangorpro/20251103/lineage-23.0-20251103-nightly-tangorpro-signed.zip"
+    },
+    {
+      "device_name": "Pixel XL",
+      "device_model": "marlin",
+      "support_lineage_23.0": false
+    }
+  ],
+  "HardKernel": [
+    {
+      "device_name": "ODROID-C4 (Android TV)",
+      "device_model": "odroidc4",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "ODROID-C4 (Tablet)",
+      "device_model": "odroidc4_tab",
+      "support_lineage_23.0": false
+    }
+  ],
+  "LG": [
+    {
+      "device_name": "G7 ThinQ (G710AWM/EM/EMW) / G7+ ThinQ",
+      "device_model": "judyln",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "G7 ThinQ (G710N)",
+      "device_model": "g710n",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "G7 ThinQ (G710ULM/VMX)",
+      "device_model": "g710ulm",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "G8 ThinQ",
+      "device_model": "alphaplus",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "G8s ThinQ",
+      "device_model": "betalm",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "G8X ThinQ (G850EM/EMW/QM/UM) / V50S ThinQ",
+      "device_model": "mh2lm",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "Style3",
+      "device_model": "style3lm",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "V30 (Japan)",
+      "device_model": "l01k",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "V30 (Unlocked / T-Mobile / Other)",
+      "device_model": "joan",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "V35 ThinQ",
+      "device_model": "judyp",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "V40 ThinQ",
+      "device_model": "judypn",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "V50 ThinQ",
+      "device_model": "flashlmdd",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "Velvet",
+      "device_model": "caymanslm",
+      "support_lineage_23.0": false
+    }
+  ],
+  "Lenovo": [
+    {
+      "device_name": "Z5 Pro GT",
+      "device_model": "heart",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-26",
+      "datetime": 1761436800,
+      "filename": "lineage-23.0-20251026-nightly-heart-signed.zip",
+      "filepath": "/full/heart/20251026/lineage-23.0-20251026-nightly-heart-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "a3d18be1895ae04788dbeb176d4ed1deece82efb",
+      "sha256": "cb35ab579d1ee87bd8789152c751292428818bb1a54c17efb5b38dcf1bc187cb",
+      "size": 1124858387,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/heart/20251026/lineage-23.0-20251026-nightly-heart-signed.zip"
+    },
+    {
+      "device_name": "Z6 Pro",
+      "device_model": "zippo",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-24",
+      "datetime": 1761264000,
+      "filename": "lineage-23.0-20251024-nightly-zippo-signed.zip",
+      "filepath": "/full/zippo/20251024/lineage-23.0-20251024-nightly-zippo-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "7e74aaef6a7a65cff03378916725fae29a94dc7b",
+      "sha256": "b52b5ca1811adcd3814e3ef571a83a22ce445351f65f09afa63d7738c36277b6",
+      "size": 1130959274,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/zippo/20251024/lineage-23.0-20251024-nightly-zippo-signed.zip"
+    }
+  ],
+  "Motorola": [
+    {
+      "device_name": "defy 2021",
+      "device_model": "bathena",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-24",
+      "datetime": 1761264000,
+      "filename": "lineage-23.0-20251024-nightly-bathena-signed.zip",
+      "filepath": "/full/bathena/20251024/lineage-23.0-20251024-nightly-bathena-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "4ceae7e8bec3144709a566cd0f36ee4e5268850d",
+      "sha256": "32e2e6ee28c384f4bfa503d05e566863a3008905f937d7d4b300af7243785c47",
+      "size": 1041097555,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/bathena/20251024/lineage-23.0-20251024-nightly-bathena-signed.zip"
+    },
+    {
+      "device_name": "edge",
+      "device_model": "racer",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "edge 20",
+      "device_model": "berlin",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-25",
+      "datetime": 1761350400,
+      "filename": "lineage-23.0-20251025-nightly-berlin-signed.zip",
+      "filepath": "/full/berlin/20251025/lineage-23.0-20251025-nightly-berlin-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "774886c68fa802b2ff2c2c51fa46913a3d176516",
+      "sha256": "32a17b2095f46d0577bd6d2e5e1cc0f57613aa257c8655c2b8c67fa42f25b592",
+      "size": 1280682191,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/berlin/20251025/lineage-23.0-20251025-nightly-berlin-signed.zip"
+    },
+    {
+      "device_name": "edge 20 pro",
+      "device_model": "pstar",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "edge 2021",
+      "device_model": "berlna",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-29",
+      "datetime": 1761696000,
+      "filename": "lineage-23.0-20251029-nightly-berlna-signed.zip",
+      "filepath": "/full/berlna/20251029/lineage-23.0-20251029-nightly-berlna-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "a37381830be5208fa8e29b54f81250cdaf7ce909",
+      "sha256": "1ebeac68a86f5eea791533e8e90f983ee5355cbd586c1d9be1e36ee1e5ff4cb1",
+      "size": 1294252439,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/berlna/20251029/lineage-23.0-20251029-nightly-berlna-signed.zip"
+    },
+    {
+      "device_name": "edge 30",
+      "device_model": "dubai",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-24",
+      "datetime": 1761264000,
+      "filename": "lineage-23.0-20251024-nightly-dubai-signed.zip",
+      "filepath": "/full/dubai/20251024/lineage-23.0-20251024-nightly-dubai-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "5af8e2aca87e8f68634ad30eedbad5cf44cb3ba2",
+      "sha256": "58887bd420686ca064c766c219beb235b7c875543354a61d10dfdf2160fd325f",
+      "size": 1418459985,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/dubai/20251024/lineage-23.0-20251024-nightly-dubai-signed.zip"
+    },
+    {
+      "device_name": "edge 30 fusion",
+      "device_model": "tundra",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-25",
+      "datetime": 1761350400,
+      "filename": "lineage-23.0-20251025-nightly-tundra-signed.zip",
+      "filepath": "/full/tundra/20251025/lineage-23.0-20251025-nightly-tundra-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "1bc256a16810fe25f12b58dec7118d954bd14a2e",
+      "sha256": "3aa918859a12f5f09a5ed2f211d864d01011635e8e14736c5bfc667a5b1c9cd7",
+      "size": 1312384644,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/tundra/20251025/lineage-23.0-20251025-nightly-tundra-signed.zip"
+    },
+    {
+      "device_name": "edge 30 neo",
+      "device_model": "miami",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-26",
+      "datetime": 1761436800,
+      "filename": "lineage-23.0-20251026-nightly-miami-signed.zip",
+      "filepath": "/full/miami/20251026/lineage-23.0-20251026-nightly-miami-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "2210f1274bf864efbf9e53faa5932e3077e32bee",
+      "sha256": "05a12a48148e18001678a7a4814d6874b8009284f17282c9bfecc224fd84e945",
+      "size": 1154209336,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/miami/20251026/lineage-23.0-20251026-nightly-miami-signed.zip"
+    },
+    {
+      "device_name": "edge 30 ultra",
+      "device_model": "eqs",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "edge 40 pro / moto X40 / edge+ (2023)",
+      "device_model": "rtwo",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-25",
+      "datetime": 1761350400,
+      "filename": "lineage-23.0-20251025-nightly-rtwo-signed.zip",
+      "filepath": "/full/rtwo/20251025/lineage-23.0-20251025-nightly-rtwo-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "62e8fa049b8223ec15856303b0bb18ffb8c6df9e",
+      "sha256": "9f812ba3f06c461e412d13760be42c051035ed22aaccab11687ef92c233a6f6e",
+      "size": 1944435443,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/rtwo/20251025/lineage-23.0-20251025-nightly-rtwo-signed.zip"
+    },
+    {
+      "device_name": "edge s / moto g100",
+      "device_model": "nio",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "moto e7 plus / Lenovo K12",
+      "device_model": "guam",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-30",
+      "datetime": 1761782400,
+      "filename": "lineage-23.0-20251030-nightly-guam-signed.zip",
+      "filepath": "/full/guam/20251030/lineage-23.0-20251030-nightly-guam-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "e2a8c7a74bb0500e6f6ea3e16e159e2d49107049",
+      "sha256": "30cdc9eef96d60d32237c444b2d0ddca55010054e49f78ed935bf84f310ca4ed",
+      "size": 1036581829,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/guam/20251030/lineage-23.0-20251030-nightly-guam-signed.zip"
+    },
+    {
+      "device_name": "moto g 5G",
+      "device_model": "kiev",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "moto g 5G - 2024",
+      "device_model": "fogo",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-30",
+      "datetime": 1761782400,
+      "filename": "lineage-23.0-20251030-nightly-fogo-signed.zip",
+      "filepath": "/full/fogo/20251030/lineage-23.0-20251030-nightly-fogo-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "383417870a354621d8c14236ca9cc7dffd4ef409",
+      "sha256": "ac1480518675b534c13a53e0b7efb89db84d0f32361de036e4a49595faadaea5",
+      "size": 1167329858,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/fogo/20251030/lineage-23.0-20251030-nightly-fogo-signed.zip"
+    },
+    {
+      "device_name": "moto g 5G plus",
+      "device_model": "nairo",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "moto g power 2021",
+      "device_model": "borneo",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-25",
+      "datetime": 1761350400,
+      "filename": "lineage-23.0-20251025-nightly-borneo-signed.zip",
+      "filepath": "/full/borneo/20251025/lineage-23.0-20251025-nightly-borneo-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "79a89199f729c16feef8745b10a14d68efb2d0c1",
+      "sha256": "f264ddd0fa551611358d6aee4f085cc3610e4116e69b352d2753687030ab5e0a",
+      "size": 1069078507,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/borneo/20251025/lineage-23.0-20251025-nightly-borneo-signed.zip"
+    },
+    {
+      "device_name": "moto g stylus 5G",
+      "device_model": "denver",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-30",
+      "datetime": 1761782400,
+      "filename": "lineage-23.0-20251030-nightly-denver-signed.zip",
+      "filepath": "/full/denver/20251030/lineage-23.0-20251030-nightly-denver-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "f35181e12bad03bd242070f46aecef39abae5c4b",
+      "sha256": "8148b71d4ae85635887913e89e41d40aff5e64a117e5af98582eae22e9b60d66",
+      "size": 1112103883,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/denver/20251030/lineage-23.0-20251030-nightly-denver-signed.zip"
+    },
+    {
+      "device_name": "moto g stylus 5G (2022)",
+      "device_model": "milanf",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-30",
+      "datetime": 1761782400,
+      "filename": "lineage-23.0-20251030-nightly-milanf-signed.zip",
+      "filepath": "/full/milanf/20251030/lineage-23.0-20251030-nightly-milanf-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "421d6459ec424bc3ca7330d98a77f844d8fb2628",
+      "sha256": "d9da10e181372fb9d284cf3d327f6b36a7e41aab207ee59966c379373be57b2d",
+      "size": 1147526894,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/milanf/20251030/lineage-23.0-20251030-nightly-milanf-signed.zip"
+    },
+    {
+      "device_name": "moto g10 / moto g10 power / Lenovo K13 Note",
+      "device_model": "capri",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-30",
+      "datetime": 1761782400,
+      "filename": "lineage-23.0-20251030-nightly-capri-signed.zip",
+      "filepath": "/full/capri/20251030/lineage-23.0-20251030-nightly-capri-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "518389508f3d497d595bf58f1fdc0faa72fb7dc3",
+      "sha256": "60c2b6d6ae6e97b40c8c8feb339361d263e3b85d5b0f896dd66cb6d1420e0c7b",
+      "size": 1074116570,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/capri/20251030/lineage-23.0-20251030-nightly-capri-signed.zip"
+    },
+    {
+      "device_name": "moto g200 5G / Edge S30",
+      "device_model": "xpeng",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-25",
+      "datetime": 1761350400,
+      "filename": "lineage-23.0-20251025-nightly-xpeng-signed.zip",
+      "filepath": "/full/xpeng/20251025/lineage-23.0-20251025-nightly-xpeng-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "a19a3c5197b8c8bfc69ae2d367e017bfa283fb41",
+      "sha256": "7383e88b73160a6df260b8054e0b444c472eb948b831bc6f9b4816790f1b4d6f",
+      "size": 1232018682,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/xpeng/20251025/lineage-23.0-20251025-nightly-xpeng-signed.zip"
+    },
+    {
+      "device_name": "moto g30 / Lenovo K13 Pro",
+      "device_model": "caprip",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-29",
+      "datetime": 1761696000,
+      "filename": "lineage-23.0-20251029-nightly-caprip-signed.zip",
+      "filepath": "/full/caprip/20251029/lineage-23.0-20251029-nightly-caprip-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "d3c4a7a64157a5dcffce6d4d4a8258bc3c6835af",
+      "sha256": "c07c4b0a7b810201bd252adaa3fabf3a96149c6df6a2d3882d503593d9d6e0a2",
+      "size": 1074185921,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/caprip/20251029/lineage-23.0-20251029-nightly-caprip-signed.zip"
+    },
+    {
+      "device_name": "moto g32",
+      "device_model": "devon",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-25",
+      "datetime": 1761350400,
+      "filename": "lineage-23.0-20251025-nightly-devon-signed.zip",
+      "filepath": "/full/devon/20251025/lineage-23.0-20251025-nightly-devon-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "c06436ff5990cde57d78a2d782a321b5f039a234",
+      "sha256": "2c5a4fcbb23acb0b593f0ad4cf646a87eb49772818d73b8b10eae941f417b2a3",
+      "size": 1057812943,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/devon/20251025/lineage-23.0-20251025-nightly-devon-signed.zip"
+    },
+    {
+      "device_name": "moto g34 5G / moto g45 5G",
+      "device_model": "fogos",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-25",
+      "datetime": 1761350400,
+      "filename": "lineage-23.0-20251025-nightly-fogos-signed.zip",
+      "filepath": "/full/fogos/20251025/lineage-23.0-20251025-nightly-fogos-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "cce91a9f756c143c421258a03f0618200fb39aa2",
+      "sha256": "da60937fa6474cf4dacf5accfb79e8e7f97dda2a44387c7a8645989463b18491",
+      "size": 1203477871,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/fogos/20251025/lineage-23.0-20251025-nightly-fogos-signed.zip"
+    },
+    {
+      "device_name": "moto g42",
+      "device_model": "hawao",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-28",
+      "datetime": 1761609600,
+      "filename": "lineage-23.0-20251028-nightly-hawao-signed.zip",
+      "filepath": "/full/hawao/20251028/lineage-23.0-20251028-nightly-hawao-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "40ed61bc94a47fe43b116ad1184d75d1326fc170",
+      "sha256": "7907eefe4befdfbf24341036103e2d2f41bca94f43b25cf085488618250ef511",
+      "size": 1054540309,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/hawao/20251028/lineage-23.0-20251028-nightly-hawao-signed.zip"
+    },
+    {
+      "device_name": "moto g52",
+      "device_model": "rhode",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-25",
+      "datetime": 1761350400,
+      "filename": "lineage-23.0-20251025-nightly-rhode-signed.zip",
+      "filepath": "/full/rhode/20251025/lineage-23.0-20251025-nightly-rhode-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "a55087cc2557be98317f14e026df45ed5f8d4359",
+      "sha256": "b1e95ea94716488a49b5ae432dfd80355941a3c861cb6bb81e152cccf6765c4a",
+      "size": 1056734335,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/rhode/20251025/lineage-23.0-20251025-nightly-rhode-signed.zip"
+    },
+    {
+      "device_name": "moto g6 plus",
+      "device_model": "evert",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "moto g7",
+      "device_model": "river",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "moto g7 play",
+      "device_model": "channel",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "moto g7 plus",
+      "device_model": "lake",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "moto g7 power",
+      "device_model": "ocean",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "moto g82 5G",
+      "device_model": "rhodep",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-26",
+      "datetime": 1761436800,
+      "filename": "lineage-23.0-20251026-nightly-rhodep-signed.zip",
+      "filepath": "/full/rhodep/20251026/lineage-23.0-20251026-nightly-rhodep-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "199355736fb144115279b326cb62813d398a805e",
+      "sha256": "5f0d33394596d2b42543a5a4ab6a62e2c692d41722f92a4100126580dd54c26c",
+      "size": 1146873287,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/rhodep/20251026/lineage-23.0-20251026-nightly-rhodep-signed.zip"
+    },
+    {
+      "device_name": "moto g84 5G",
+      "device_model": "bangkk",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-24",
+      "datetime": 1761264000,
+      "filename": "lineage-23.0-20251024-nightly-bangkk-signed.zip",
+      "filepath": "/full/bangkk/20251024/lineage-23.0-20251024-nightly-bangkk-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "47459a80ca74c05dda0035213397f3dae9b47375",
+      "sha256": "75acff3e7f1fb9c12a54771d829d2014c8b2e6b9c11f276ead9a379959a4fb38",
+      "size": 1179002637,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/bangkk/20251024/lineage-23.0-20251024-nightly-bangkk-signed.zip"
+    },
+    {
+      "device_name": "moto g9 / g9 play / Lenovo K12 Note",
+      "device_model": "guamp",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-27",
+      "datetime": 1761523200,
+      "filename": "lineage-23.0-20251027-nightly-guamp-signed.zip",
+      "filepath": "/full/guamp/20251027/lineage-23.0-20251027-nightly-guamp-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "1550ad7f654e362e4ba83cde24007485a8118bab",
+      "sha256": "dc1af37a01c9968c228f0a7386716d8ac75c360d3e5b1587e4332f4c3736998d",
+      "size": 1040549209,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/guamp/20251027/lineage-23.0-20251027-nightly-guamp-signed.zip"
+    },
+    {
+      "device_name": "moto g9 power / Lenovo K12 Pro",
+      "device_model": "cebu",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-25",
+      "datetime": 1761350400,
+      "filename": "lineage-23.0-20251025-nightly-cebu-signed.zip",
+      "filepath": "/full/cebu/20251025/lineage-23.0-20251025-nightly-cebu-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "0f58d3ff8b1ea25951f7da56be2a6006537bf2ba",
+      "sha256": "2147f1d1c3a11948791985bae51a8c79b9523368a1c495b9fdb7490be437ebf5",
+      "size": 1039342192,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/cebu/20251025/lineage-23.0-20251025-nightly-cebu-signed.zip"
+    },
+    {
+      "device_name": "moto x4",
+      "device_model": "payton",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "moto z2 force / moto z (2018)",
+      "device_model": "nash",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "moto z3",
+      "device_model": "messi",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "moto z3 play",
+      "device_model": "beckham",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "one action",
+      "device_model": "troika",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "one vision / p50",
+      "device_model": "kane",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "ThinkPhone by motorola",
+      "device_model": "bronco",
+      "support_lineage_23.0": false
+    }
+  ],
+  "Nintendo": [
+    {
+      "device_name": "Switch v1 / v2 / Lite / OLED [Android TV]",
+      "device_model": "nx",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "Switch v1 / v2 / Lite / OLED [Tablet]",
+      "device_model": "nx_tab",
+      "support_lineage_23.0": false
+    }
+  ],
+  "Nokia": [
+    {
+      "device_name": "6.1 (2018)",
+      "device_model": "PL2",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "7 plus",
+      "device_model": "B2N",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "8",
+      "device_model": "NB1",
+      "support_lineage_23.0": false
+    }
+  ],
+  "Nothing": [
+    {
+      "device_name": "Phone (1)",
+      "device_model": "Spacewar",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-29",
+      "datetime": 1761696000,
+      "filename": "lineage-23.0-20251029-nightly-Spacewar-signed.zip",
+      "filepath": "/full/Spacewar/20251029/lineage-23.0-20251029-nightly-Spacewar-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "e82610d8349f3155ea5d35d763619771e21c1fd1",
+      "sha256": "144e6d02ec3aa1ffac30be9d646acc31b4afd62e84a264c8fb49371f0d3ccdd7",
+      "size": 1284641921,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/Spacewar/20251029/lineage-23.0-20251029-nightly-Spacewar-signed.zip"
+    },
+    {
+      "device_name": "Phone (2)",
+      "device_model": "Pong",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-29",
+      "datetime": 1761696000,
+      "filename": "lineage-23.0-20251029-nightly-Pong-signed.zip",
+      "filepath": "/full/Pong/20251029/lineage-23.0-20251029-nightly-Pong-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "5bcd809f5a311540071ecd39afe8ee63ba50876f",
+      "sha256": "9f0ad13108fb4e100c496658ab8e0a01033c0f57aea21cb6e61dd9889083361d",
+      "size": 1803922753,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/Pong/20251029/lineage-23.0-20251029-nightly-Pong-signed.zip"
+    }
+  ],
+  "Nubia": [
+    {
+      "device_name": "Mini 5G",
+      "device_model": "TP1803",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-24",
+      "datetime": 1761264000,
+      "filename": "lineage-23.0-20251024-nightly-TP1803-signed.zip",
+      "filepath": "/full/TP1803/20251024/lineage-23.0-20251024-nightly-TP1803-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "607c543e0b4d6f003225433fc3d1662700faa249",
+      "sha256": "1cb1c398423f09d2396b86ee022c3cf47f5d42ad9811d707819b94efe08b4be1",
+      "size": 1209610668,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/TP1803/20251024/lineage-23.0-20251024-nightly-TP1803-signed.zip"
+    },
+    {
+      "device_name": "Red Magic 5G / 5S",
+      "device_model": "nx659j",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "Red Magic Mars",
+      "device_model": "nx619j",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "X",
+      "device_model": "nx616j",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "Z17",
+      "device_model": "nx563j",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "Z18",
+      "device_model": "nx606j",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "Z18 Mini",
+      "device_model": "nx611j",
+      "support_lineage_23.0": false
+    }
+  ],
+  "Nvidia": [
+    {
+      "device_name": "Jetson (Nano / Nano 2GB) [Android TV]",
+      "device_model": "porg",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "Jetson (Nano / Nano 2GB) [Tablet]",
+      "device_model": "porg_tab",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "Jetson (TX2 / TX2 NX) [Android TV]",
+      "device_model": "quill",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "Jetson (TX2 / TX2 NX) [Tablet]",
+      "device_model": "quill_tab",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "NVIDIA Shield TV (2019) [Android TV]",
+      "device_model": "sif",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "Shield TV (2015 / 2015 Pro / 2017 / 2019 Pro) / Jetson TX1 [Android TV]",
+      "device_model": "foster",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "Shield TV (2015 / 2015 Pro / 2017 / 2019 Pro) / Jetson TX1 [Tablet]",
+      "device_model": "foster_tab",
+      "support_lineage_23.0": false
+    }
+  ],
+  "OnePlus": [
+    {
+      "device_name": "5",
+      "device_model": "cheeseburger",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "5T",
+      "device_model": "dumpling",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "6",
+      "device_model": "enchilada",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "6T",
+      "device_model": "fajita",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "7",
+      "device_model": "guacamoleb",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-11-02",
+      "datetime": 1762041600,
+      "filename": "lineage-23.0-20251102-nightly-guacamoleb-signed.zip",
+      "filepath": "/full/guacamoleb/20251102/lineage-23.0-20251102-nightly-guacamoleb-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "6f9694dc7178750ec7b4c2cdcf18d212f8847739",
+      "sha256": "f6930ba0c2a71b6457d599591745105dec05cdf76d7ecfcf3a1d0488aa917367",
+      "size": 1111195327,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/guacamoleb/20251102/lineage-23.0-20251102-nightly-guacamoleb-signed.zip"
+    },
+    {
+      "device_name": "7 Pro",
+      "device_model": "guacamole",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-11-03",
+      "datetime": 1762128000,
+      "filename": "lineage-23.0-20251103-nightly-guacamole-signed.zip",
+      "filepath": "/full/guacamole/20251103/lineage-23.0-20251103-nightly-guacamole-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "3e158d15afbb1b11c01ded93e969a58f6bdf726e",
+      "sha256": "700c3e90204ddbffd66e203c44ead53b39e2237c463c5ca0df29bf04ce97909f",
+      "size": 1121741923,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/guacamole/20251103/lineage-23.0-20251103-nightly-guacamole-signed.zip"
+    },
+    {
+      "device_name": "7T",
+      "device_model": "hotdogb",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-31",
+      "datetime": 1761868800,
+      "filename": "lineage-23.0-20251031-nightly-hotdogb-signed.zip",
+      "filepath": "/full/hotdogb/20251031/lineage-23.0-20251031-nightly-hotdogb-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "0e2b9f824ef6edc2de9fefa24cf3fbb401ec12ef",
+      "sha256": "4f532d7c28ac2058313a8c59700e90f779211c4238a630cf32ece58f9b494f81",
+      "size": 1125709728,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/hotdogb/20251031/lineage-23.0-20251031-nightly-hotdogb-signed.zip"
+    },
+    {
+      "device_name": "7T Pro",
+      "device_model": "hotdog",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-31",
+      "datetime": 1761868800,
+      "filename": "lineage-23.0-20251031-nightly-hotdog-signed.zip",
+      "filepath": "/full/hotdog/20251031/lineage-23.0-20251031-nightly-hotdog-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "ce93893d19fc9aa2cd1beb5cf4ada32857814da4",
+      "sha256": "76154d440199120a58e57f8df66449c41bbceef13d62b893da9c26a1c40a9c75",
+      "size": 1138945869,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/hotdog/20251031/lineage-23.0-20251031-nightly-hotdog-signed.zip"
+    },
+    {
+      "device_name": "8",
+      "device_model": "instantnoodle",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-30",
+      "datetime": 1761782400,
+      "filename": "lineage-23.0-20251030-nightly-instantnoodle-signed.zip",
+      "filepath": "/full/instantnoodle/20251030/lineage-23.0-20251030-nightly-instantnoodle-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "3568a3532bd7c92213a56f676d05946216d1c0a3",
+      "sha256": "c9cf44f74c57dea3d0a1698869fa2faa48b6801d655f8bf5e4a413f82e412949",
+      "size": 1385442082,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/instantnoodle/20251030/lineage-23.0-20251030-nightly-instantnoodle-signed.zip"
+    },
+    {
+      "device_name": "8 Pro",
+      "device_model": "instantnoodlep",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-24",
+      "datetime": 1761264000,
+      "filename": "lineage-23.0-20251024-nightly-instantnoodlep-signed.zip",
+      "filepath": "/full/instantnoodlep/20251024/lineage-23.0-20251024-nightly-instantnoodlep-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "fad244cb957a00bc21eec342440a97d4282749cc",
+      "sha256": "11e9d1a0be179903a929ac42269524860023997a8ba5f684d65a941eb4851726",
+      "size": 1396200712,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/instantnoodlep/20251024/lineage-23.0-20251024-nightly-instantnoodlep-signed.zip"
+    },
+    {
+      "device_name": "8T",
+      "device_model": "kebab",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-24",
+      "datetime": 1761264000,
+      "filename": "lineage-23.0-20251024-nightly-kebab-signed.zip",
+      "filepath": "/full/kebab/20251024/lineage-23.0-20251024-nightly-kebab-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "61301ecba34ba7d372160e9432bf6c43d6631415",
+      "sha256": "a0e7b9fc65c25371cc14e07d0cc238743013e5b4dd583b95a838162437718be4",
+      "size": 1293354356,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/kebab/20251024/lineage-23.0-20251024-nightly-kebab-signed.zip"
+    },
+    {
+      "device_name": "9",
+      "device_model": "lemonade",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-27",
+      "datetime": 1761523200,
+      "filename": "lineage-23.0-20251027-nightly-lemonade-signed.zip",
+      "filepath": "/full/lemonade/20251027/lineage-23.0-20251027-nightly-lemonade-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "a0e37a4488d5fb321d66bb1513b9a2255aaa392f",
+      "sha256": "b37d691b1a7489f53ef857862ae4b17ca6a7279e905df2bfa4a797aecb17e8f4",
+      "size": 1666638387,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/lemonade/20251027/lineage-23.0-20251027-nightly-lemonade-signed.zip"
+    },
+    {
+      "device_name": "9 Pro",
+      "device_model": "lemonadep",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-27",
+      "datetime": 1761523200,
+      "filename": "lineage-23.0-20251027-nightly-lemonadep-signed.zip",
+      "filepath": "/full/lemonadep/20251027/lineage-23.0-20251027-nightly-lemonadep-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "5d92118236a67ad98e427e7cab7fc9a7936331ad",
+      "sha256": "1fd0c80b40727a24fdc9d0a5a936bd0361ac4fa3d4b9ff5a295f340d59f3e145",
+      "size": 1669271031,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/lemonadep/20251027/lineage-23.0-20251027-nightly-lemonadep-signed.zip"
+    },
+    {
+      "device_name": "9R",
+      "device_model": "lemonades",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-24",
+      "datetime": 1761264000,
+      "filename": "lineage-23.0-20251024-nightly-lemonades-signed.zip",
+      "filepath": "/full/lemonades/20251024/lineage-23.0-20251024-nightly-lemonades-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "37ab8058900e988496fc357b5326f4c8b6b1e3ce",
+      "sha256": "57b76e0b263d2c827ef2a87f7ce5f2dc3d7b314170a283cd9753b71f2071ca65",
+      "size": 1294387922,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/lemonades/20251024/lineage-23.0-20251024-nightly-lemonades-signed.zip"
+    },
+    {
+      "device_name": "9RT",
+      "device_model": "martini",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-27",
+      "datetime": 1761523200,
+      "filename": "lineage-23.0-20251027-nightly-martini-signed.zip",
+      "filepath": "/full/martini/20251027/lineage-23.0-20251027-nightly-martini-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "58d568acab31304a103a92c148394fe79b676e08",
+      "sha256": "a92adfd1e2188347e0a6c505028aa72051fc027258378affcf536d28f0ff87ef",
+      "size": 1685054673,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/martini/20251027/lineage-23.0-20251027-nightly-martini-signed.zip"
+    },
+    {
+      "device_name": "11 5G",
+      "device_model": "salami",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-31",
+      "datetime": 1761868800,
+      "filename": "lineage-23.0-20251031-nightly-salami-signed.zip",
+      "filepath": "/full/salami/20251031/lineage-23.0-20251031-nightly-salami-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "72a092290dc8ba5404eaddfff7b391b71cdb3168",
+      "sha256": "e3acaa321a72dfa588a72f2bfb55885023e5de769a7b0d86e69306de8c43c8e8",
+      "size": 2111792198,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/salami/20251031/lineage-23.0-20251031-nightly-salami-signed.zip"
+    },
+    {
+      "device_name": "12",
+      "device_model": "waffle",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-11-06",
+      "datetime": 1762387200,
+      "filename": "lineage-23.0-20251106-nightly-waffle-signed.zip",
+      "filepath": "/full/waffle/20251106/lineage-23.0-20251106-nightly-waffle-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "d52d1c9ea90b6e19e62cb76b3dee411ff177048b",
+      "sha256": "0df378c9e0957f4e1a67e8d5ac79b7255a5b2761912f3066c9e5e5f35c734636",
+      "size": 2582052847,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/waffle/20251106/lineage-23.0-20251106-nightly-waffle-signed.zip"
+    },
+    {
+      "device_name": "12R / ACE 3",
+      "device_model": "aston",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-24",
+      "datetime": 1761264000,
+      "filename": "lineage-23.0-20251024-nightly-aston-signed.zip",
+      "filepath": "/full/aston/20251024/lineage-23.0-20251024-nightly-aston-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "22f4152885808e3cfce9cf6c83722fd16685037f",
+      "sha256": "6114aea7883c3a98733ca9d88575e9cf6f5e5b79677486596a7b4ff3a4386f55",
+      "size": 2019059257,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/aston/20251024/lineage-23.0-20251024-nightly-aston-signed.zip"
+    },
+    {
+      "device_name": "13",
+      "device_model": "dodge",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-11-06",
+      "datetime": 1762387200,
+      "filename": "lineage-23.0-20251106-nightly-dodge-signed.zip",
+      "filepath": "/full/dodge/20251106/lineage-23.0-20251106-nightly-dodge-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "f66f3a72b5ed45ac11f264f8a04424ad3bef4c9e",
+      "sha256": "71e15d82fa5f750ee048514b628f3e9bf0a986c1e16739b7b5352f88959a04ac",
+      "size": 2942469270,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/dodge/20251106/lineage-23.0-20251106-nightly-dodge-signed.zip"
+    },
+    {
+      "device_name": "Nord 4",
+      "device_model": "avalon",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-25",
+      "datetime": 1761350400,
+      "filename": "lineage-23.0-20251025-nightly-avalon-signed.zip",
+      "filepath": "/full/avalon/20251025/lineage-23.0-20251025-nightly-avalon-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "81b968dc15bacd838d170b7a92e3baa077c8cb41",
+      "sha256": "ec92decf242f09e918841f71cd811474e4ab8b35c45c77547cce4bf437b1a5ff",
+      "size": 2451366954,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/avalon/20251025/lineage-23.0-20251025-nightly-avalon-signed.zip"
+    },
+    {
+      "device_name": "Nord CE 2 Lite 5G",
+      "device_model": "oscaro",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-27",
+      "datetime": 1761523200,
+      "filename": "lineage-23.0-20251027-nightly-oscaro-signed.zip",
+      "filepath": "/full/oscaro/20251027/lineage-23.0-20251027-nightly-oscaro-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "f96af3ea723a36fb318b74cd5c7f34e39020f3b5",
+      "sha256": "c898ade3391a282cd20796aa90d47d0298075e147af63899922b0eabbdc1a49d",
+      "size": 1663146926,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/oscaro/20251027/lineage-23.0-20251027-nightly-oscaro-signed.zip"
+    },
+    {
+      "device_name": "Nord CE 3 Lite 5G / Nord N30 5G",
+      "device_model": "larry",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-25",
+      "datetime": 1761350400,
+      "filename": "lineage-23.0-20251025-nightly-larry-signed.zip",
+      "filepath": "/full/larry/20251025/lineage-23.0-20251025-nightly-larry-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "7b6193690c98b7374f3320a28bdeb9e28ec89e2b",
+      "sha256": "8c606e23b8bb73d9fa68bc076475da008e9d25794db39ddc0f0f03d1f10e79fd",
+      "size": 1621696539,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/larry/20251025/lineage-23.0-20251025-nightly-larry-signed.zip"
+    },
+    {
+      "device_name": "Nord CE4",
+      "device_model": "benz",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-25",
+      "datetime": 1761350400,
+      "filename": "lineage-23.0-20251025-nightly-benz-signed.zip",
+      "filepath": "/full/benz/20251025/lineage-23.0-20251025-nightly-benz-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "37694ac8ff3144a85ec0bf62f9bbe8e90e72384d",
+      "sha256": "93f2da5bd39b5bdd42afadbf443776291334fbaf9d96f4086665dd750fd0d2f5",
+      "size": 2109407587,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/benz/20251025/lineage-23.0-20251025-nightly-benz-signed.zip"
+    },
+    {
+      "device_name": "Nord N10 5G",
+      "device_model": "billie",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "Nord N20 5G",
+      "device_model": "gunnar",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "Nord N200",
+      "device_model": "dre",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "Pad 2 Pro / Pad 3",
+      "device_model": "erhai",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-31",
+      "datetime": 1761868800,
+      "filename": "lineage-23.0-20251031-nightly-erhai-signed.zip",
+      "filepath": "/full/erhai/20251031/lineage-23.0-20251031-nightly-erhai-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "a055a2d9807367740fb65509148121fffcfca199",
+      "sha256": "44f70cc668846081ca9ab12480e62edd96337c0b18764cafa0e37f3960891752",
+      "size": 1607970934,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/erhai/20251031/lineage-23.0-20251031-nightly-erhai-signed.zip"
+    },
+    {
+      "device_name": "Pad Pro / Pad 2",
+      "device_model": "caihong",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-26",
+      "datetime": 1761436800,
+      "filename": "lineage-23.0-20251026-nightly-caihong-signed.zip",
+      "filepath": "/full/caihong/20251026/lineage-23.0-20251026-nightly-caihong-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "0b507fec55fc9384eddfdcfc364ba895ff361172",
+      "sha256": "dacfb479dacde7cfcbb1da712d2567c04a56bd68687986d481981e33de165d36",
+      "size": 1932865415,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/caihong/20251026/lineage-23.0-20251026-nightly-caihong-signed.zip"
+    }
+  ],
+  "Radxa": [
+    {
+      "device_name": "Zero (Android TV)",
+      "device_model": "radxa0",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "Zero (Tablet)",
+      "device_model": "radxa0_tab",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "Zero 2 (Android TV)",
+      "device_model": "radxa02",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "Zero 2 (Tablet)",
+      "device_model": "radxa02_tab",
+      "support_lineage_23.0": false
+    }
+  ],
+  "Razer": [
+    {
+      "device_name": "Phone",
+      "device_model": "cheryl",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "Phone 2",
+      "device_model": "aura",
+      "support_lineage_23.0": false
+    }
+  ],
+  "Realme": [
+    {
+      "device_name": "9 Pro 5G / 9 5G / Q5",
+      "device_model": "oscar",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-27",
+      "datetime": 1761523200,
+      "filename": "lineage-23.0-20251027-nightly-oscar-signed.zip",
+      "filepath": "/full/oscar/20251027/lineage-23.0-20251027-nightly-oscar-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "9636c8f3ced6e3abfcc14c5f96f0f18642aa205d",
+      "sha256": "7b9171135acd230a86a4994a62e908e8da672a8f7b355f92da59e6b6c92d2c66",
+      "size": 1688613953,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/oscar/20251027/lineage-23.0-20251027-nightly-oscar-signed.zip"
+    },
+    {
+      "device_name": "10 Pro 5G",
+      "device_model": "luigi",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-25",
+      "datetime": 1761350400,
+      "filename": "lineage-23.0-20251025-nightly-luigi-signed.zip",
+      "filepath": "/full/luigi/20251025/lineage-23.0-20251025-nightly-luigi-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "4284fd929bde6d27850f29ce97e2a900242a2df1",
+      "sha256": "8da8935ffc5d0b546b46d18347e695a9ed6c091ebdd67616a4e435f7a7aab552",
+      "size": 1730092316,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/luigi/20251025/lineage-23.0-20251025-nightly-luigi-signed.zip"
+    }
+  ],
+  "SHIFT": [
+    {
+      "device_name": "SHIFT6mq",
+      "device_model": "axolotl",
+      "support_lineage_23.0": false
+    }
+  ],
+  "Samsung": [
+    {
+      "device_name": "Galaxy A21s",
+      "device_model": "a21s",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-28",
+      "datetime": 1761609600,
+      "filename": "lineage-23.0-20251028-nightly-a21s-signed.zip",
+      "filepath": "/full/a21s/20251028/lineage-23.0-20251028-nightly-a21s-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "c48d3b568ce49147f835a459fa503d2112cd5488",
+      "sha256": "2335d796cb52b9480e88f8661173d9683df4a3e60be3f5bd289c0ee0e985b3a2",
+      "size": 1053928336,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/a21s/20251028/lineage-23.0-20251028-nightly-a21s-signed.zip"
+    },
+    {
+      "device_name": "Galaxy A52 4G",
+      "device_model": "a52q",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "Galaxy A52s 5G",
+      "device_model": "a52sxq",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "Galaxy A71",
+      "device_model": "a71",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-11-03",
+      "datetime": 1762128000,
+      "filename": "lineage-23.0-20251103-nightly-a71-signed.zip",
+      "filepath": "/full/a71/20251103/lineage-23.0-20251103-nightly-a71-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "07f2c42e7fc8449833be4ab4ccf9b7455dc7f1ca",
+      "sha256": "6f2b419d1b31cbdf91df0b1cbd42cc94d92840d2410cdc4245372c41484ff703",
+      "size": 1210200973,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/a71/20251103/lineage-23.0-20251103-nightly-a71-signed.zip"
+    },
+    {
+      "device_name": "Galaxy A72",
+      "device_model": "a72q",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "Galaxy A73 5G",
+      "device_model": "a73xq",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "Galaxy F62/M62",
+      "device_model": "f62",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-24",
+      "datetime": 1761264000,
+      "filename": "lineage-23.0-20251024-nightly-f62-signed.zip",
+      "filepath": "/full/f62/20251024/lineage-23.0-20251024-nightly-f62-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "9831a726b1c381c20a20c1aca5cb42ccb15c6068",
+      "sha256": "924d126f662ec55d2a037835dd2eca389bc393c85dbba4456843c0d9c310983f",
+      "size": 1144996601,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/f62/20251024/lineage-23.0-20251024-nightly-f62-signed.zip"
+    },
+    {
+      "device_name": "Galaxy M52 5G",
+      "device_model": "m52xq",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "Galaxy Note10",
+      "device_model": "d1",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-30",
+      "datetime": 1761782400,
+      "filename": "lineage-23.0-20251030-nightly-d1-signed.zip",
+      "filepath": "/full/d1/20251030/lineage-23.0-20251030-nightly-d1-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "f398bf969fadc8093a06a99d9d7acd6715753a3d",
+      "sha256": "9bad8bf5ef98b9caa2141119f938477172bcbbf3995bd2451cf0aef141ffde21",
+      "size": 1118155477,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/d1/20251030/lineage-23.0-20251030-nightly-d1-signed.zip"
+    },
+    {
+      "device_name": "Galaxy Note10 5G",
+      "device_model": "d1x",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-30",
+      "datetime": 1761782400,
+      "filename": "lineage-23.0-20251030-nightly-d1x-signed.zip",
+      "filepath": "/full/d1x/20251030/lineage-23.0-20251030-nightly-d1x-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "797d669d1e4ef3de4b791f74059390cbf9b70aed",
+      "sha256": "05614e7ddd036bdb65b8ad60ca6f3cb596746a8c279891b81e3da80c67a9cadf",
+      "size": 1124420299,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/d1x/20251030/lineage-23.0-20251030-nightly-d1x-signed.zip"
+    },
+    {
+      "device_name": "Galaxy Note10+",
+      "device_model": "d2s",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-26",
+      "datetime": 1761436800,
+      "filename": "lineage-23.0-20251026-nightly-d2s-signed.zip",
+      "filepath": "/full/d2s/20251026/lineage-23.0-20251026-nightly-d2s-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "a94c5c7609a99925cd25b81fea526fe417921f73",
+      "sha256": "a2504fd13bb9074c5176f41960b65c8c0c5886aa6b1e3865a5aa28eaecd150b7",
+      "size": 1122173358,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/d2s/20251026/lineage-23.0-20251026-nightly-d2s-signed.zip"
+    },
+    {
+      "device_name": "Galaxy Note10+ 5G",
+      "device_model": "d2x",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-26",
+      "datetime": 1761436800,
+      "filename": "lineage-23.0-20251026-nightly-d2x-signed.zip",
+      "filepath": "/full/d2x/20251026/lineage-23.0-20251026-nightly-d2x-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "0581cd4de56a1c3aa429d4d9d35e41ba28c86e7b",
+      "sha256": "1861bb24f994d6b2c10d5e0fa3e20712e3db2c084cf96518d722da453b153037",
+      "size": 1162064710,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/d2x/20251026/lineage-23.0-20251026-nightly-d2x-signed.zip"
+    },
+    {
+      "device_name": "Galaxy S10",
+      "device_model": "beyond1lte",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-24",
+      "datetime": 1761264000,
+      "filename": "lineage-23.0-20251024-nightly-beyond1lte-signed.zip",
+      "filepath": "/full/beyond1lte/20251024/lineage-23.0-20251024-nightly-beyond1lte-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "a0b8c05fbff9034f852d2e252566c6903ef736fa",
+      "sha256": "a64c92336236f1554356fd30624f37f2c0879e3ad4dea8fde3c9ec82e634f64e",
+      "size": 1136395832,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/beyond1lte/20251024/lineage-23.0-20251024-nightly-beyond1lte-signed.zip"
+    },
+    {
+      "device_name": "Galaxy S10 5G",
+      "device_model": "beyondx",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-29",
+      "datetime": 1761696000,
+      "filename": "lineage-23.0-20251029-nightly-beyondx-signed.zip",
+      "filepath": "/full/beyondx/20251029/lineage-23.0-20251029-nightly-beyondx-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "b47f3f10ebbd3cee3d461bedbf5440bcf65c86f3",
+      "sha256": "99f049fa66bbc287ea11cb6589976b9681f918b8b07607320719665b208daaeb",
+      "size": 1148647613,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/beyondx/20251029/lineage-23.0-20251029-nightly-beyondx-signed.zip"
+    },
+    {
+      "device_name": "Galaxy S10+",
+      "device_model": "beyond2lte",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-25",
+      "datetime": 1761350400,
+      "filename": "lineage-23.0-20251025-nightly-beyond2lte-signed.zip",
+      "filepath": "/full/beyond2lte/20251025/lineage-23.0-20251025-nightly-beyond2lte-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "afd2400006ece5fb8173266628fbd88a9728b6f0",
+      "sha256": "f8932cd00d42647d700a1bf42a3104522d6e51ef0ff18a37fac1a019891e9f99",
+      "size": 1136084053,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/beyond2lte/20251025/lineage-23.0-20251025-nightly-beyond2lte-signed.zip"
+    },
+    {
+      "device_name": "Galaxy S10e",
+      "device_model": "beyond0lte",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-25",
+      "datetime": 1761350400,
+      "filename": "lineage-23.0-20251025-nightly-beyond0lte-signed.zip",
+      "filepath": "/full/beyond0lte/20251025/lineage-23.0-20251025-nightly-beyond0lte-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "ce9c116717b8b761f8f1bbabb9f47a1fcbff2162",
+      "sha256": "f65ae3eabb05dc35f5a11807b6b9b8b7b30d6522bdacd0b36f7e4e1414e207ac",
+      "size": 1130721926,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/beyond0lte/20251025/lineage-23.0-20251025-nightly-beyond0lte-signed.zip"
+    },
+    {
+      "device_name": "Galaxy S20 (4G/5G)",
+      "device_model": "x1s",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-24",
+      "datetime": 1761264000,
+      "filename": "lineage-23.0-20251024-nightly-x1s-signed.zip",
+      "filepath": "/full/x1s/20251024/lineage-23.0-20251024-nightly-x1s-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "691373554bb1e66f5e677077f525ab4c9944bcc3",
+      "sha256": "ad7ab4e9221a98a7658393102e8d17e0e28b9b883387e61180dc395eedfaa1e6",
+      "size": 1117016011,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/x1s/20251024/lineage-23.0-20251024-nightly-x1s-signed.zip"
+    },
+    {
+      "device_name": "Galaxy S20 FE",
+      "device_model": "r8q",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-25",
+      "datetime": 1761350400,
+      "filename": "lineage-23.0-20251025-nightly-r8q-signed.zip",
+      "filepath": "/full/r8q/20251025/lineage-23.0-20251025-nightly-r8q-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "1d282af3507f1038a402568421cfaf3ad83fd51e",
+      "sha256": "99351d667e17748667981ea55a8b76afea83e1606a8b79d3e5d10c8e5d47fa02",
+      "size": 1271910822,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/r8q/20251025/lineage-23.0-20251025-nightly-r8q-signed.zip"
+    },
+    {
+      "device_name": "Galaxy S20 Ultra (5G)",
+      "device_model": "z3s",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-26",
+      "datetime": 1761436800,
+      "filename": "lineage-23.0-20251026-nightly-z3s-signed.zip",
+      "filepath": "/full/z3s/20251026/lineage-23.0-20251026-nightly-z3s-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "8d9a10f668c61ee979ba4ab09de2e34e0f2b7885",
+      "sha256": "5883a676f6b6ed4e046524d4740c30cd6c60163af87ff96bb072fee0c9680c8e",
+      "size": 1117980533,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/z3s/20251026/lineage-23.0-20251026-nightly-z3s-signed.zip"
+    },
+    {
+      "device_name": "Galaxy S20+ (4G/5G)",
+      "device_model": "y2s",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-25",
+      "datetime": 1761350400,
+      "filename": "lineage-23.0-20251025-nightly-y2s-signed.zip",
+      "filepath": "/full/y2s/20251025/lineage-23.0-20251025-nightly-y2s-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "c53a213a877c9f90849d9d560a107b12e996835d",
+      "sha256": "73e3cb87397458bc1ca96dedf73bd4f9bf74c2b1f957f3e891637185f4e5aa7c",
+      "size": 1118125168,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/y2s/20251025/lineage-23.0-20251025-nightly-y2s-signed.zip"
+    },
+    {
+      "device_name": "Galaxy Tab A 8.0 2019 (Wi-Fi)",
+      "device_model": "gtowifi",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "Galaxy Tab A7 10.4 2020 (LTE)",
+      "device_model": "gta4l",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-26",
+      "datetime": 1761436800,
+      "filename": "lineage-23.0-20251026-nightly-gta4l-signed.zip",
+      "filepath": "/full/gta4l/20251026/lineage-23.0-20251026-nightly-gta4l-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "15253dde3e0d5731bdadcb67193301b2f513f108",
+      "sha256": "cb5356d10dceef58a291decaed2e227131e3408104c58aa78ee484ab872f5d15",
+      "size": 1154971645,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/gta4l/20251026/lineage-23.0-20251026-nightly-gta4l-signed.zip"
+    },
+    {
+      "device_name": "Galaxy Tab A7 10.4 2020 (Wi-Fi)",
+      "device_model": "gta4lwifi",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-28",
+      "datetime": 1761609600,
+      "filename": "lineage-23.0-20251028-nightly-gta4lwifi-signed.zip",
+      "filepath": "/full/gta4lwifi/20251028/lineage-23.0-20251028-nightly-gta4lwifi-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "6dc9dfc3aeb3d10631598f1f00112a667f5d5878",
+      "sha256": "3deec5dd19c607f64aa4c503b19b5cf0122d0daa1b515f409e4a7ec3f94dc95a",
+      "size": 1119215454,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/gta4lwifi/20251028/lineage-23.0-20251028-nightly-gta4lwifi-signed.zip"
+    },
+    {
+      "device_name": "Galaxy Tab S5e (LTE)",
+      "device_model": "gts4lv",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "Galaxy Tab S5e (Wi-Fi)",
+      "device_model": "gts4lvwifi",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "Galaxy Tab S6 Lite (LTE)",
+      "device_model": "gta4xl",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-29",
+      "datetime": 1761696000,
+      "filename": "lineage-23.0-20251029-nightly-gta4xl-signed.zip",
+      "filepath": "/full/gta4xl/20251029/lineage-23.0-20251029-nightly-gta4xl-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "a80cb8160c2dee7b9a1e854f64c7c87c102763b4",
+      "sha256": "1de4d998761e296fb2668f1ace8f2dec8cc3c6f45eabc84adb302e4e3926a753",
+      "size": 1084060943,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/gta4xl/20251029/lineage-23.0-20251029-nightly-gta4xl-signed.zip"
+    },
+    {
+      "device_name": "Galaxy Tab S6 Lite (Wi-Fi)",
+      "device_model": "gta4xlwifi",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-25",
+      "datetime": 1761350400,
+      "filename": "lineage-23.0-20251025-nightly-gta4xlwifi-signed.zip",
+      "filepath": "/full/gta4xlwifi/20251025/lineage-23.0-20251025-nightly-gta4xlwifi-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "5c87027cfbd1a548520dcdbca2e096ca5b458fe6",
+      "sha256": "f353fbb510d80cdf2fb05f1b9996fa79d7c8fb62431dc8013e1d7308067e1fd6",
+      "size": 1036669864,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/gta4xlwifi/20251025/lineage-23.0-20251025-nightly-gta4xlwifi-signed.zip"
+    },
+    {
+      "device_name": "Galaxy Tab S7 (LTE)",
+      "device_model": "gts7l",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-28",
+      "datetime": 1761609600,
+      "filename": "lineage-23.0-20251028-nightly-gts7l-signed.zip",
+      "filepath": "/full/gts7l/20251028/lineage-23.0-20251028-nightly-gts7l-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "6e008b2c8afb26664649341635e11502d3aa3313",
+      "sha256": "329df0e5cdde465f10124cc7d2d08705f15518f851e4cbcfb8ff7e4ad0c9d487",
+      "size": 1247360616,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/gts7l/20251028/lineage-23.0-20251028-nightly-gts7l-signed.zip"
+    },
+    {
+      "device_name": "Galaxy Tab S7 (Wi-Fi)",
+      "device_model": "gts7lwifi",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-27",
+      "datetime": 1761523200,
+      "filename": "lineage-23.0-20251027-nightly-gts7lwifi-signed.zip",
+      "filepath": "/full/gts7lwifi/20251027/lineage-23.0-20251027-nightly-gts7lwifi-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "66612ae05d4368405f109ddcd04ada786cf5bb79",
+      "sha256": "ad89f8e9fbcd3851d797eaa9f9ecd30b52b4c2d5ba38eed02cf262f7425bacdd",
+      "size": 1222469023,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/gts7lwifi/20251027/lineage-23.0-20251027-nightly-gts7lwifi-signed.zip"
+    }
+  ],
+  "Solana": [
+    {
+      "device_name": "Saga",
+      "device_model": "ingot",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-25",
+      "datetime": 1761350400,
+      "filename": "lineage-23.0-20251025-nightly-ingot-signed.zip",
+      "filepath": "/full/ingot/20251025/lineage-23.0-20251025-nightly-ingot-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "0e97658ee54c0fca25eaed0ae029c78f9accaca4",
+      "sha256": "e4058785ef5fd6bd434d9483a02f7f2e37704d5cbc4cf7f63f8de507e3094423",
+      "size": 1352097129,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/ingot/20251025/lineage-23.0-20251025-nightly-ingot-signed.zip"
+    }
+  ],
+  "Sony": [
+    {
+      "device_name": "Xperia 1 II",
+      "device_model": "pdx203",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-24",
+      "datetime": 1761264000,
+      "filename": "lineage-23.0-20251024-nightly-pdx203-signed.zip",
+      "filepath": "/full/pdx203/20251024/lineage-23.0-20251024-nightly-pdx203-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "3d0b5cd6b51f056b35b5676b91429c85d9a5ecf9",
+      "sha256": "802f8230734cd17c1782f0efa0f53f6370a39a7d9892d410ba910e05ec8e44ab",
+      "size": 1136112505,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/pdx203/20251024/lineage-23.0-20251024-nightly-pdx203-signed.zip"
+    },
+    {
+      "device_name": "Xperia 1 III",
+      "device_model": "pdx215",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-28",
+      "datetime": 1761609600,
+      "filename": "lineage-23.0-20251028-nightly-pdx215-signed.zip",
+      "filepath": "/full/pdx215/20251028/lineage-23.0-20251028-nightly-pdx215-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "1b0c4534a17d92387181ed65c0e6fc53bf4a00d5",
+      "sha256": "0357c9e7450c032dbae26fc20846dd2c333cf9eef2adae8f9d236f7133883b28",
+      "size": 1235259600,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/pdx215/20251028/lineage-23.0-20251028-nightly-pdx215-signed.zip"
+    },
+    {
+      "device_name": "Xperia 1 V",
+      "device_model": "pdx234",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-26",
+      "datetime": 1761436800,
+      "filename": "lineage-23.0-20251026-nightly-pdx234-signed.zip",
+      "filepath": "/full/pdx234/20251026/lineage-23.0-20251026-nightly-pdx234-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "88c5f8f3fd0dfb011c18413d46e3ae271b7b38b9",
+      "sha256": "cd0adc672fd169b055239a71f2008d3bba616860228c4c767fcbcb286c3632c8",
+      "size": 1613589220,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/pdx234/20251026/lineage-23.0-20251026-nightly-pdx234-signed.zip"
+    },
+    {
+      "device_name": "Xperia 10",
+      "device_model": "kirin",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-24",
+      "datetime": 1761264000,
+      "filename": "lineage-23.0-20251024-nightly-kirin-signed.zip",
+      "filepath": "/full/kirin/20251024/lineage-23.0-20251024-nightly-kirin-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "206e8e58fbee7800c954cf32c895714851c81224",
+      "sha256": "8f7ac3dbbd453d18bb9a393d5ababb34a2a83f38e5446011998b9deb40cf2a4f",
+      "size": 883649171,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/kirin/20251024/lineage-23.0-20251024-nightly-kirin-signed.zip"
+    },
+    {
+      "device_name": "Xperia 10 IV",
+      "device_model": "pdx225",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-11-02",
+      "datetime": 1762041600,
+      "filename": "lineage-23.0-20251102-nightly-pdx225-signed.zip",
+      "filepath": "/full/pdx225/20251102/lineage-23.0-20251102-nightly-pdx225-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "85ce2c79eba1ae283050f9918037a12d9bfd599d",
+      "sha256": "95d77b1a6f3b25fdc118ca3571be243cd23c73291ed1110873cb8640e2301425",
+      "size": 1134457872,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/pdx225/20251102/lineage-23.0-20251102-nightly-pdx225-signed.zip"
+    },
+    {
+      "device_name": "Xperia 10 Plus",
+      "device_model": "mermaid",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-25",
+      "datetime": 1761350400,
+      "filename": "lineage-23.0-20251025-nightly-mermaid-signed.zip",
+      "filepath": "/full/mermaid/20251025/lineage-23.0-20251025-nightly-mermaid-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "0719646da800e3c7549f3e8282e4f67468743c8c",
+      "sha256": "ba73f499f0e1b138b40c3422b3a88dc0fe8a541a517d2682441ab0e7cb4db43e",
+      "size": 883575145,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/mermaid/20251025/lineage-23.0-20251025-nightly-mermaid-signed.zip"
+    },
+    {
+      "device_name": "Xperia 10 V",
+      "device_model": "pdx235",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-31",
+      "datetime": 1761868800,
+      "filename": "lineage-23.0-20251031-nightly-pdx235-signed.zip",
+      "filepath": "/full/pdx235/20251031/lineage-23.0-20251031-nightly-pdx235-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "78c9f7a9099c98e5f82a3affb076c19d6bf540c2",
+      "sha256": "c0ec7775862e206fc0d903a292f44a79badc2421989224821c4e4e96262cd2d1",
+      "size": 1195173090,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/pdx235/20251031/lineage-23.0-20251031-nightly-pdx235-signed.zip"
+    },
+    {
+      "device_name": "Xperia 5 II",
+      "device_model": "pdx206",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-25",
+      "datetime": 1761350400,
+      "filename": "lineage-23.0-20251025-nightly-pdx206-signed.zip",
+      "filepath": "/full/pdx206/20251025/lineage-23.0-20251025-nightly-pdx206-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "a23bf30313be162851ca554e44550c1652ff9e5c",
+      "sha256": "d15f259af5ef15a42074b2738b4584ae64ca57a3f8e7948bc0a6ecbf1b245c9c",
+      "size": 1135295339,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/pdx206/20251025/lineage-23.0-20251025-nightly-pdx206-signed.zip"
+    },
+    {
+      "device_name": "Xperia 5 III",
+      "device_model": "pdx214",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-24",
+      "datetime": 1761264000,
+      "filename": "lineage-23.0-20251024-nightly-pdx214-signed.zip",
+      "filepath": "/full/pdx214/20251024/lineage-23.0-20251024-nightly-pdx214-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "358ced8b970b46c0eeadff04eb12b589dda1d443",
+      "sha256": "f96c1f0f83b41a977758966278df31f1646ebbae9a16ffed862300d516024b69",
+      "size": 1235073744,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/pdx214/20251024/lineage-23.0-20251024-nightly-pdx214-signed.zip"
+    },
+    {
+      "device_name": "Xperia 5 V",
+      "device_model": "pdx237",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-29",
+      "datetime": 1761696000,
+      "filename": "lineage-23.0-20251029-nightly-pdx237-signed.zip",
+      "filepath": "/full/pdx237/20251029/lineage-23.0-20251029-nightly-pdx237-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "741537f2cedc451090917013aae91316014beafd",
+      "sha256": "d73e1f38034ec6d7ca1e0dc0d16bd3b217f58467782043ae817b9faa0a88dc3f",
+      "size": 1611953168,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/pdx237/20251029/lineage-23.0-20251029-nightly-pdx237-signed.zip"
+    },
+    {
+      "device_name": "Xperia XA2",
+      "device_model": "pioneer",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-30",
+      "datetime": 1761782400,
+      "filename": "lineage-23.0-20251030-nightly-pioneer-signed.zip",
+      "filepath": "/full/pioneer/20251030/lineage-23.0-20251030-nightly-pioneer-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "be57afd20496d2aa07a36ace11336614f00b2dfe",
+      "sha256": "4df96a7b6ab08863242355f25c6635067fda7a653aa263a8ebdfbcba5bcfc343",
+      "size": 882948443,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/pioneer/20251030/lineage-23.0-20251030-nightly-pioneer-signed.zip"
+    },
+    {
+      "device_name": "Xperia XA2 Plus",
+      "device_model": "voyager",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-24",
+      "datetime": 1761264000,
+      "filename": "lineage-23.0-20251024-nightly-voyager-signed.zip",
+      "filepath": "/full/voyager/20251024/lineage-23.0-20251024-nightly-voyager-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "4b5dc1242bde0fb20b02845866ec906dcfca291e",
+      "sha256": "17a53882fedfbaad98bc21f9313712a280cbc4458fe5d7c03f97d76edcf30bf8",
+      "size": 883427438,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/voyager/20251024/lineage-23.0-20251024-nightly-voyager-signed.zip"
+    },
+    {
+      "device_name": "Xperia XA2 Ultra",
+      "device_model": "discovery",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-30",
+      "datetime": 1761782400,
+      "filename": "lineage-23.0-20251030-nightly-discovery-signed.zip",
+      "filepath": "/full/discovery/20251030/lineage-23.0-20251030-nightly-discovery-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "8f4c98d0e8babf045ad6d6b2c2ab97d0f7a89ff7",
+      "sha256": "2afb53f107ab90f7625602fea9c4518bc8bf8476b949a995950257166397596c",
+      "size": 883563117,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/discovery/20251030/lineage-23.0-20251030-nightly-discovery-signed.zip"
+    },
+    {
+      "device_name": "Xperia XZ2",
+      "device_model": "akari",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "Xperia XZ2 Compact",
+      "device_model": "xz2c",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "Xperia XZ2 Premium",
+      "device_model": "aurora",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "Xperia XZ3",
+      "device_model": "akatsuki",
+      "support_lineage_23.0": false
+    }
+  ],
+  "Vsmart": [
+    {
+      "device_name": "Joy 3 / Joy 3+",
+      "device_model": "casuarina",
+      "support_lineage_23.0": false
+    }
+  ],
+  "Walmart": [
+    {
+      "device_name": "onn. TV Box 4K (2021)",
+      "device_model": "dopinder",
+      "support_lineage_23.0": false
+    }
+  ],
+  "Xiaomi": [
+    {
+      "device_name": "11 Lite 5G NE / 11 Lite NE 5G / Mi 11 LE",
+      "device_model": "lisa",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "12",
+      "device_model": "cupid",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-30",
+      "datetime": 1761782400,
+      "filename": "lineage-23.0-20251030-nightly-cupid-signed.zip",
+      "filepath": "/full/cupid/20251030/lineage-23.0-20251030-nightly-cupid-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "338fcffd72bb47afcb9bc756f4be1a50452fe950",
+      "sha256": "b3eb7abf8f272a361ac61b7f251998ff08a682f462d26406b385524ecd284bce",
+      "size": 1735365907,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/cupid/20251030/lineage-23.0-20251030-nightly-cupid-signed.zip"
+    },
+    {
+      "device_name": "12 Pro",
+      "device_model": "zeus",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-28",
+      "datetime": 1761609600,
+      "filename": "lineage-23.0-20251028-nightly-zeus-signed.zip",
+      "filepath": "/full/zeus/20251028/lineage-23.0-20251028-nightly-zeus-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "3ce5fb001460c13d8b127702a245236c1e385dd1",
+      "sha256": "21737f759d619a9c1d93906322d77ee90096ffdd9ef80d52dc5c8efd1affbd97",
+      "size": 1759261520,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/zeus/20251028/lineage-23.0-20251028-nightly-zeus-signed.zip"
+    },
+    {
+      "device_name": "12S",
+      "device_model": "mayfly",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-24",
+      "datetime": 1761264000,
+      "filename": "lineage-23.0-20251024-nightly-mayfly-signed.zip",
+      "filepath": "/full/mayfly/20251024/lineage-23.0-20251024-nightly-mayfly-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "18524560dc8bd5f5a087bb143431b471bd4e3cf6",
+      "sha256": "ae13511e0370b3fd92c09ba8754ca7cf89c32ea95b06430bd0816344e50dbb29",
+      "size": 1864385316,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/mayfly/20251024/lineage-23.0-20251024-nightly-mayfly-signed.zip"
+    },
+    {
+      "device_name": "12S Pro",
+      "device_model": "unicorn",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-24",
+      "datetime": 1761264000,
+      "filename": "lineage-23.0-20251024-nightly-unicorn-signed.zip",
+      "filepath": "/full/unicorn/20251024/lineage-23.0-20251024-nightly-unicorn-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "54ec032be9b026b10158b42b1ec369cf87bc7d70",
+      "sha256": "3fa1799fd676fe94b2b24b5a18841fbed0c078525bbf97195c58b105917196a6",
+      "size": 1896679156,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/unicorn/20251024/lineage-23.0-20251024-nightly-unicorn-signed.zip"
+    },
+    {
+      "device_name": "12S Ultra",
+      "device_model": "thor",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-25",
+      "datetime": 1761350400,
+      "filename": "lineage-23.0-20251025-nightly-thor-signed.zip",
+      "filepath": "/full/thor/20251025/lineage-23.0-20251025-nightly-thor-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "57fe70061b83437417ef627f84f6bab96926b235",
+      "sha256": "41aaa9d29cf95561a652ffd994b135df664772889e216fea93c07a94e6b002db",
+      "size": 1931147232,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/thor/20251025/lineage-23.0-20251025-nightly-thor-signed.zip"
+    },
+    {
+      "device_name": "12T Pro / Redmi K50 Ultra",
+      "device_model": "diting",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-29",
+      "datetime": 1761696000,
+      "filename": "lineage-23.0-20251029-nightly-diting-signed.zip",
+      "filepath": "/full/diting/20251029/lineage-23.0-20251029-nightly-diting-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "68c964646460788916a069db295007c19c91cc66",
+      "sha256": "0e30162d0e3902807bc3b826d965a6e40235e443281288eca02bbe812b9b7d2b",
+      "size": 1842382498,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/diting/20251029/lineage-23.0-20251029-nightly-diting-signed.zip"
+    },
+    {
+      "device_name": "13",
+      "device_model": "fuxi",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-27",
+      "datetime": 1761523200,
+      "filename": "lineage-23.0-20251027-nightly-fuxi-signed.zip",
+      "filepath": "/full/fuxi/20251027/lineage-23.0-20251027-nightly-fuxi-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "8aaaff3c93988d3db9f08482a03e6e4edae69866",
+      "sha256": "ffa2e87440f7e4432c45d3341736be62067d4ba343959e1b5babc8dbe06a8736",
+      "size": 2181518386,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/fuxi/20251027/lineage-23.0-20251027-nightly-fuxi-signed.zip"
+    },
+    {
+      "device_name": "13 Pro",
+      "device_model": "nuwa",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-26",
+      "datetime": 1761436800,
+      "filename": "lineage-23.0-20251026-nightly-nuwa-signed.zip",
+      "filepath": "/full/nuwa/20251026/lineage-23.0-20251026-nightly-nuwa-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "cf705769d5e8d2ad2360701f10094b4a5fb5bc9e",
+      "sha256": "28791bf9a68f4d4e43b0e2f43c8b36756e95a969371124fb5e7425d4c9eed566",
+      "size": 2289386932,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/nuwa/20251026/lineage-23.0-20251026-nightly-nuwa-signed.zip"
+    },
+    {
+      "device_name": "Black Shark",
+      "device_model": "shark",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "Mi 10",
+      "device_model": "umi",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "Mi 10 Pro",
+      "device_model": "cmi",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "Mi 10S",
+      "device_model": "thyme",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "Mi 10T / Mi 10T Pro / Redmi K30S Ultra",
+      "device_model": "apollon",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "Mi 10T Lite 5G / Mi 10i 5G / Redmi Note 9 Pro 5G",
+      "device_model": "gauguin",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-11-02",
+      "datetime": 1762041600,
+      "filename": "lineage-23.0-20251102-nightly-gauguin-signed.zip",
+      "filepath": "/full/gauguin/20251102/lineage-23.0-20251102-nightly-gauguin-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "e09a6a392effc8cd2ab15220a9e47d336f7955d4",
+      "sha256": "0b1b3f775a44e94d80905a1ea53381547ed8e83c838eb2a86936749f83596d34",
+      "size": 1551696893,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/gauguin/20251102/lineage-23.0-20251102-nightly-gauguin-signed.zip"
+    },
+    {
+      "device_name": "Mi 11 Lite 5G",
+      "device_model": "renoir",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "Mi 11i / Redmi K40 Pro / Redmi K40 Pro+ / Mi 11X Pro",
+      "device_model": "haydn",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "Mi 5",
+      "device_model": "gemini",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "Mi 5s Plus",
+      "device_model": "natrium",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "Mi 6",
+      "device_model": "sagit",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "Mi 8",
+      "device_model": "dipper",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "Mi 8 Explorer Edition",
+      "device_model": "ursa",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "Mi 8 Pro",
+      "device_model": "equuleus",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "Mi 9 SE",
+      "device_model": "grus",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "Mi A3",
+      "device_model": "laurel_sprout",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-28",
+      "datetime": 1761609600,
+      "filename": "lineage-23.0-20251028-nightly-laurel_sprout-signed.zip",
+      "filepath": "/full/laurel_sprout/20251028/lineage-23.0-20251028-nightly-laurel_sprout-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "d8b4152ff2c2ac799fd8e73cfc4dc765f65ac577",
+      "sha256": "8c5698d5679a0ce9328e0ea97fd3bb08dd4a7f378bfa5ff2f244a4aaee9fb1b8",
+      "size": 1130893187,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/laurel_sprout/20251028/lineage-23.0-20251028-nightly-laurel_sprout-signed.zip"
+    },
+    {
+      "device_name": "Mi CC 9 / Mi 9 Lite",
+      "device_model": "pyxis",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "Mi CC9 Meitu Edition",
+      "device_model": "vela",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "Mi MIX 2",
+      "device_model": "chiron",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "Mi MIX 2S",
+      "device_model": "polaris",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "Mi MIX 3",
+      "device_model": "perseus",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "Mi Note 10 / Note 10 Pro / CC9 Pro",
+      "device_model": "tucana",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-27",
+      "datetime": 1761523200,
+      "filename": "lineage-23.0-20251027-nightly-tucana-signed.zip",
+      "filepath": "/full/tucana/20251027/lineage-23.0-20251027-nightly-tucana-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "30ff94f964b950fa977583e5e3a17753e7a23ee5",
+      "sha256": "50917cc13efd938462cda7a11c80c5b023962da658de8bea55d541a2564999d8",
+      "size": 1522933497,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/tucana/20251027/lineage-23.0-20251027-nightly-tucana-signed.zip"
+    },
+    {
+      "device_name": "MIX Fold 2",
+      "device_model": "zizhan",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "POCO F1",
+      "device_model": "beryllium",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "POCO F2 Pro / Redmi K30 Pro",
+      "device_model": "lmi",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "POCO F3 / Redmi K40 / Mi 11X",
+      "device_model": "alioth",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "POCO F4 / Redmi K40S",
+      "device_model": "munch",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "POCO F5 / Redmi Note 12 Turbo",
+      "device_model": "marble",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-28",
+      "datetime": 1761609600,
+      "filename": "lineage-23.0-20251028-nightly-marble-signed.zip",
+      "filepath": "/full/marble/20251028/lineage-23.0-20251028-nightly-marble-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "0e244409fa4d853044422c56504544eecf37e49d",
+      "sha256": "a1ce450d561529c77a1be8d60c8b2caea1ecbda6821aa824d371d6773f310e14",
+      "size": 1784292627,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/marble/20251028/lineage-23.0-20251028-nightly-marble-signed.zip"
+    },
+    {
+      "device_name": "POCO F5 Pro / Redmi K60",
+      "device_model": "mondrian",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-26",
+      "datetime": 1761436800,
+      "filename": "lineage-23.0-20251026-nightly-mondrian-signed.zip",
+      "filepath": "/full/mondrian/20251026/lineage-23.0-20251026-nightly-mondrian-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "9963cec5cfaec0c00e1939bf55d82bd6e65635e4",
+      "sha256": "1f18af44c67e054776f7ac91890348c4683fe30094aa3ea64ceabc28c1ba447a",
+      "size": 1847882236,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/mondrian/20251026/lineage-23.0-20251026-nightly-mondrian-signed.zip"
+    },
+    {
+      "device_name": "POCO F6 Pro / Redmi K70",
+      "device_model": "vermeer",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-25",
+      "datetime": 1761350400,
+      "filename": "lineage-23.0-20251025-nightly-vermeer-signed.zip",
+      "filepath": "/full/vermeer/20251025/lineage-23.0-20251025-nightly-vermeer-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "30907c0d308ff644ade6e39134e392cd0f74e757",
+      "sha256": "4d9714257afa75bee178736f281f6e763f9ce934b6db97138a7852686434c03b",
+      "size": 2845601335,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/vermeer/20251025/lineage-23.0-20251025-nightly-vermeer-signed.zip"
+    },
+    {
+      "device_name": "POCO M2 Pro / Redmi Note 9S / Redmi Note 9 Pro / Redmi Note 9 Pro Max / Redmi Note 10 Lite",
+      "device_model": "miatoll",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "POCO X3 NFC",
+      "device_model": "surya",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "POCO X3 Pro",
+      "device_model": "vayu",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "Redmi 12C / Redmi 12C NFC / POCO C55",
+      "device_model": "earth",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-26",
+      "datetime": 1761436800,
+      "filename": "lineage-23.0-20251026-nightly-earth-signed.zip",
+      "filepath": "/full/earth/20251026/lineage-23.0-20251026-nightly-earth-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "a3230f7eea5e645279b01960d2cbeaea92f84be2",
+      "sha256": "f933318e6ce88c37bf5ab27e0a17a91fa6450cabaa501c7da001a361bb02c043",
+      "size": 1019266442,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/earth/20251026/lineage-23.0-20251026-nightly-earth-signed.zip"
+    },
+    {
+      "device_name": "Redmi 3S / 3X / 4(X) / [Note 5A / Y1 - Prime]",
+      "device_model": "Mi8937",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-28",
+      "datetime": 1761609600,
+      "filename": "lineage-23.0-20251028-nightly-Mi8937-signed.zip",
+      "filepath": "/full/Mi8937/20251028/lineage-23.0-20251028-nightly-Mi8937-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "d82755548028a687f18a28ce2d4aadcb7a167149",
+      "sha256": "ca2134dd503fa29876332333d079301ab5aea32c1a031a9e5253f4b16f7e8f4a",
+      "size": 1074629480,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/Mi8937/20251028/lineage-23.0-20251028-nightly-Mi8937-signed.zip"
+    },
+    {
+      "device_name": "Redmi 4A / 5A / [Note 5A / Y1 - Lite]",
+      "device_model": "Mi8917",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-30",
+      "datetime": 1761782400,
+      "filename": "lineage-23.0-20251030-nightly-Mi8917-signed.zip",
+      "filepath": "/full/Mi8917/20251030/lineage-23.0-20251030-nightly-Mi8917-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "ade5cfd795893e8f0fd528c7ac783d726635ac0a",
+      "sha256": "3eb95fb3e596d4ccf017a9cd369254240469ed6ac660a928a3ca52218c9799d4",
+      "size": 1064593492,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/Mi8917/20251030/lineage-23.0-20251030-nightly-Mi8917-signed.zip"
+    },
+    {
+      "device_name": "Redmi 7 / Y3",
+      "device_model": "onclite",
+      "support_lineage_23.0": false
+    },
+    {
+      "device_name": "Redmi 7A / 8 / 8A / 8A Dual",
+      "device_model": "Mi439",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-30",
+      "datetime": 1761782400,
+      "filename": "lineage-23.0-20251030-nightly-Mi439-signed.zip",
+      "filepath": "/full/Mi439/20251030/lineage-23.0-20251030-nightly-Mi439-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "17f5a03594f8f9ebe6f078c6fe5ed059d086c111",
+      "sha256": "f772732993ed87dc89d86682f5d6467a929fc06b879f09c6d81028a2b0fd8290",
+      "size": 1165841405,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/Mi439/20251030/lineage-23.0-20251030-nightly-Mi439-signed.zip"
+    },
+    {
+      "device_name": "Redmi K20 / Mi 9T",
+      "device_model": "davinci",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-26",
+      "datetime": 1761436800,
+      "filename": "lineage-23.0-20251026-nightly-davinci-signed.zip",
+      "filepath": "/full/davinci/20251026/lineage-23.0-20251026-nightly-davinci-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "98f61101e62b0607c455800260a27f1179c9eca4",
+      "sha256": "9815a444c6be259ce7e3fd97982cb6cc95476edb9c1c7b8795b50d46bb32639a",
+      "size": 1343387464,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/davinci/20251026/lineage-23.0-20251026-nightly-davinci-signed.zip"
+    },
+    {
+      "device_name": "Redmi K60 Pro",
+      "device_model": "socrates",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-25",
+      "datetime": 1761350400,
+      "filename": "lineage-23.0-20251025-nightly-socrates-signed.zip",
+      "filepath": "/full/socrates/20251025/lineage-23.0-20251025-nightly-socrates-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "b124cd3b64a9c8805cc5405dd39ea880060673a7",
+      "sha256": "aec9fefeabcf9cacac53cb0947b1a560781f1350dbb4bcd2a07f99df0d92e19f",
+      "size": 1615134475,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/socrates/20251025/lineage-23.0-20251025-nightly-socrates-signed.zip"
+    },
+    {
+      "device_name": "Redmi Note 10 Pro / Redmi Note 10 Pro Max",
+      "device_model": "sweet",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-30",
+      "datetime": 1761782400,
+      "filename": "lineage-23.0-20251030-nightly-sweet-signed.zip",
+      "filepath": "/full/sweet/20251030/lineage-23.0-20251030-nightly-sweet-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "20cc84cf39e87a485ef8d458fd777ff92194cd9f",
+      "sha256": "654d796fc0fc62dd868d219e22a2e7b11862ec5682f0300c028421a7f03fc6d0",
+      "size": 1385330482,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/sweet/20251030/lineage-23.0-20251030-nightly-sweet-signed.zip"
+    },
+    {
+      "device_name": "Redmi Note 10S / Redmi Note 10S NFC / Redmi Note 10S Latin America / POCO M5s",
+      "device_model": "rosemary",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-22",
+      "datetime": 1761091200,
+      "filename": "lineage-23.0-20251022-nightly-rosemary-signed.zip",
+      "filepath": "/full/rosemary/20251022/lineage-23.0-20251022-nightly-rosemary-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "a33a8d19244a79acd91e30f27d68372ed2b8d632",
+      "sha256": "055e1e66a8fc7bae3a7938c1b74facfec34efb159382534680606ca2eb5191e0",
+      "size": 1083690749,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/rosemary/20251022/lineage-23.0-20251022-nightly-rosemary-signed.zip"
+    },
+    {
+      "device_name": "Redmi Note 7 Pro",
+      "device_model": "violet",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-29",
+      "datetime": 1761696000,
+      "filename": "lineage-23.0-20251029-nightly-violet-signed.zip",
+      "filepath": "/full/violet/20251029/lineage-23.0-20251029-nightly-violet-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "2308fcb0c1375913f0291c3caf9f2fccbaae92b3",
+      "sha256": "84ed09749ab9b755c93c303717ae5d7b8fd85daf27288c2098dcb759fcba420c",
+      "size": 1266709112,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/violet/20251029/lineage-23.0-20251029-nightly-violet-signed.zip"
+    },
+    {
+      "device_name": "Redmi Note 8 / 8T",
+      "device_model": "ginkgo",
+      "version_lineageos": "23.0",
+      "support_lineage_23.0": true,
+      "date": "2025-10-29",
+      "datetime": 1761696000,
+      "filename": "lineage-23.0-20251029-nightly-ginkgo-signed.zip",
+      "filepath": "/full/ginkgo/20251029/lineage-23.0-20251029-nightly-ginkgo-signed.zip",
+      "os_patch_level": "2025-10-01",
+      "sha1": "3436b2cb5a0125de2ced3e818319d4578fea0964",
+      "sha256": "5a7724827ab08573b9ef975048bed95535c32c28728d32faff8b36fef04aa5c6",
+      "size": 1213860497,
+      "type": "nightly",
+      "url": "https://mirrorbits.lineageos.org/full/ginkgo/20251029/lineage-23.0-20251029-nightly-ginkgo-signed.zip"
+    }
+  ],
+  "ZTE": [
+    {
+      "device_name": "Axon 9 Pro",
+      "device_model": "akershus",
+      "support_lineage_23.0": false
+    }
+  ]
+}
